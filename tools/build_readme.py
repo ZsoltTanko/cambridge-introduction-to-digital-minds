@@ -51,14 +51,13 @@ def main():
     out = [
         '<div align="center">',
         "",
-        "# Introduction to Digital Minds, mapped",
+        "# Introduction to Digital Minds: study companion",
         "",
-        "### Know what every reading argues before you open it.",
+        "### Summaries, syntheses and a glossary for the Cambridge Digital Minds / BlueDot course",
         "",
-        "A structured study companion to the [Introduction to Digital Minds course]"
-        "(https://bluedot.org/courses/digital-minds) from Cambridge Digital Minds and BlueDot Impact: "
-        "could an AI system be conscious, could it matter morally, and what should anyone do while nobody knows?<br>"
-        f"{n_readings} readings summarised. {len(w['units'])} units synthesised. {n_terms} terms defined. Plain markdown, all cross-linked.",
+        "Unofficial study materials for students taking the [Introduction to Digital Minds course]"
+        "(https://bluedot.org/courses/digital-minds): the course pages, a summary of every assigned reading, "
+        "syntheses at section, unit and course level, and a glossary, all in plain markdown and cross-linked.",
         "",
         f"![Units](https://img.shields.io/badge/units-{len(w['units'])}-4C6EF5)",
         f"![Readings summarised](https://img.shields.io/badge/readings%20summarised-{n_readings}-4C6EF5)",
@@ -67,27 +66,6 @@ def main():
         "![Format](https://img.shields.io/badge/format-markdown-lightgrey)",
         "",
         "</div>",
-        "",
-        "## Why this exists",
-        "",
-        "The course asks one of the stranger questions around, whether some AI systems might be moral patients, and "
-        "answering it takes philosophy of mind, neuroscience, interpretability, psychology and law. "
-        f"That is {n_readings} papers, posts, system cards and talks, roughly {hours} hours of material, "
-        "and it is easy to finish a paper without knowing where it sits in the argument or whether you should have believed it.",
-        "",
-        "This repo keeps the course's structure and hangs the missing context on it. For every reading you get what it "
-        "claims, why the course put it in this unit, how it holds up under criticism, and questions to bring to a "
-        "discussion. Above the readings sit syntheses that show how the units answer each other, and a glossary that "
-        "says which sense of \"consciousness\" or \"moral standing\" a given author is using.",
-        "",
-        "> The course's core claim is conditional and modest: there is a **realistic possibility** that some digital "
-        "systems matter morally, which is enough to justify acknowledging the issue, assessing it, and preparing, "
-        "without asserting that any current system is conscious.",
-        "",
-        "The units walk from *what matters* (1), to *whether it could be there* (2), to *how we would know* (3), to "
-        "*what people believe regardless* (4), to *what follows for building and securing AI* (5), to *how to decide* (6), "
-        "to *how to govern* (7), to *what to do next* (8). Each one hands its unresolved problem to the next, and the "
-        "[course synthesis](course-synthesis.md) traces those handoffs.",
         "",
         "## What's inside",
         "",
