@@ -1,0 +1,111 @@
+{
+ "id": "i101",
+ "kind": "resource",
+ "section": "7.1",
+ "sectionTitle": "Digital Minds Governance",
+ "unit": 7,
+ "unitTitle": "Digital Minds Governance",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/7/1",
+ "pagePath": "units/7-digital-minds-governance/7.1-digital-minds-governance/page.md",
+ "url": "https://docs.google.com/document/d/1et-TIGBRbHg2lLBkKwCCQCrq2p975b8q1KdpP_nnnpI/edit?usp=sharing",
+ "summaryFile": "units/7-digital-minds-governance/7.1-digital-minds-governance/readings/07-governance-of-digital-minds-recent-legislation-and-relevant.md",
+ "sourceFile": "sources/governance-of-digital-minds-recent-legislation-and__657c38ab.md",
+ "sourceRel": "../../../../sources/governance-of-digital-minds-recent-legislation-and__657c38ab.md",
+ "sourceStatus": "ok",
+ "sourceWords": 3482,
+ "sourceMethod": "text",
+ "formatHint": "course-team primer (written by the course team)",
+ "title": "Governance of Digital Minds: Recent Legislation and Relevant Legal Frameworks",
+ "authors": "Introduction to Digital Minds",
+ "year": 2026,
+ "priority": "Core",
+ "timeMins": 25,
+ "guide": "Note: there is a **written prompt** connected to this reading. \n\n_Reviews recent legislation and frameworks potentially relevant to digital minds._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Unit 7 Glossary",
+   "path": "01-unit-7-glossary.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Three kinds of digital minds governance",
+   "path": "02-three-kinds-of-digital-minds-governance.md",
+   "priority": "Core"
+  },
+  {
+   "title": "AI as Legal Persons: Past, Patterns, and Prospects [Excerpt]",
+   "path": "03-ai-as-legal-persons-past-patterns-and-prospects-excerpt.md",
+   "priority": "Core"
+  },
+  {
+   "title": "AI Rights for Human Safety",
+   "path": "04-ai-rights-for-human-safety.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Debunking Robot Rights Metaphysically, Ethically, and Legally [Excerpt]",
+   "path": "05-debunking-robot-rights-metaphysically-ethically-and-legally.md",
+   "priority": "Core"
+  },
+  {
+   "title": "AI systems must not confuse users about their moral status",
+   "path": "06-ai-systems-must-not-confuse-users-about-their-moral-status.md",
+   "priority": "Core"
+  },
+  {
+   "title": "How Should the Law Treat Future AI Systems? Fictional Legal Personhood versus Legal Identity",
+   "path": "08-how-should-the-law-treat-future-ai-systems-fictional-legal-p.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Denying Personhood to AI: An Analysis of U.S. State Legislation on AI Legal Status",
+   "path": "09-denying-personhood-to-ai-an-analysis-of-u-s-state-legislatio.md",
+   "priority": "Further"
+  },
+  {
+   "title": "The Emotional Alignment Policy",
+   "path": "10-the-emotional-alignment-policy.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology",
+   "path": "11-artificial-suffering-an-argument-for-a-global-moratorium-on.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Reminders that chatbots are not human can be risky",
+   "path": "12-reminders-that-chatbots-are-not-human-can-be-risky.md",
+   "priority": "Further"
+  },
+  {
+   "title": "A Pragmatic View of AI Personhood",
+   "path": "13-a-pragmatic-view-of-ai-personhood.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Does AI have rights?",
+   "path": "14-does-ai-have-rights.md",
+   "priority": "Further"
+  },
+  {
+   "title": "How to count AIs: Individuation and liability for AI agents",
+   "path": "15-how-to-count-ais-individuation-and-liability-for-ai-agents.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI as legal persons: past, patterns and prospects",
+   "path": "16-ai-as-legal-persons-past-patterns-and-prospects.md",
+   "priority": "Maybe"
+  },
+  {
+   "title": "Debunking Robot Rights Metaphysically, Ethically, and Legally",
+   "path": "17-debunking-robot-rights-metaphysically-ethically-and-legally.md",
+   "priority": "Maybe"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

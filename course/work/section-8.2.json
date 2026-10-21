@@ -1,0 +1,20 @@
+{
+ "id": "8.2",
+ "title": "Next steps",
+ "unit": 8,
+ "unitTitle": "Reflections and Next Steps",
+ "dir": "units/8-reflections-and-next-steps/8.2-next-steps",
+ "url": "https://bluedot.org/courses/digital-minds/8/2",
+ "estimatedTime": null,
+ "itemIds": [],
+ "numExercises": 0,
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "pagePath": "units/8-reflections-and-next-steps/8.2-next-steps/page.md",
+ "readings": [],
+ "references": [],
+ "siblingSectionPages": [
+  "units/8-reflections-and-next-steps/8.1-reflections-and-next-steps/page.md"
+ ],
+ "note": "This section's page text renders client-side and was captured in a browser (see the end of page.md). Read the source files its page text links to directly, and profile each item it lists in the synthesis."
+}

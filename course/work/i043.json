@@ -1,0 +1,91 @@
+{
+ "id": "i043",
+ "kind": "resource",
+ "section": "3.1",
+ "sectionTitle": "Evaluation of Consciousness and Other Mental States",
+ "unit": 3,
+ "unitTitle": "Evaluating mental states",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/3/1",
+ "pagePath": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/page.md",
+ "url": "https://philpapers.org/archive/GOLWDC-2.pdf",
+ "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/12-what-does-chatgpt-want-an-interpretationist-guide.md",
+ "sourceFile": "sources/what-does-chatgpt-want-an-interpretationist-guide__b896ef57.md",
+ "sourceRel": "../../../../sources/what-does-chatgpt-want-an-interpretationist-guide__b896ef57.md",
+ "sourceStatus": "unavailable",
+ "sourceWords": 8,
+ "sourceMethod": "html",
+ "formatHint": "article / blog post / web page",
+ "title": "What Does ChatGPT Want? An Interpretationist Guide",
+ "authors": "Simon Goldstein and Harvey Lederman",
+ "year": 2025,
+ "priority": "Further",
+ "timeMins": 93,
+ "guide": "_Explores whether AI models may have beliefs, intentions and desires and argues these may exist at the level of the instance rather than the model overall._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Unit 3 Glossary",
+   "path": "01-unit-3-glossary.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Key concepts and current views on AI Welfare",
+   "path": "02-key-concepts-and-current-views-on-ai-welfare.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Claude Mythos Preview System Card",
+   "path": "03-claude-mythos-preview-system-card.md",
+   "priority": "Core"
+  },
+  {
+   "title": "What We Talk to When We Talk to Language Models",
+   "path": "04-what-we-talk-to-when-we-talk-to-language-models.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Evaluating consciousness, sentience and other mental states: primer",
+   "path": "05-evaluating-consciousness-sentience-and-other-mental-states-p.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI Welfare is Bullshit",
+   "path": "06-ai-welfare-is-bullshit.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Signs of Introspection in Large Language Models",
+   "path": "07-signs-of-introspection-in-large-language-models.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Agnosticism about Artificial Consciousness",
+   "path": "08-agnosticism-about-artificial-consciousness.md",
+   "priority": "Further"
+  },
+  {
+   "title": "The Most Bizarre Findings from 5 AI Welfare Experiments",
+   "path": "09-the-most-bizarre-findings-from-5-ai-welfare-experiments.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Consciousness is not the Key to Moral Standing",
+   "path": "10-consciousness-is-not-the-key-to-moral-standing.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Video: Evaluating AI Welfare and Moral Status",
+   "path": "11-video-evaluating-ai-welfare-and-moral-status.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Emotion concepts and their function in a large language model",
+   "path": "13-emotion-concepts-and-their-function-in-a-large-language-mode.md",
+   "priority": "Further"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

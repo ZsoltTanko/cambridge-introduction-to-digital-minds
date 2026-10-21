@@ -1,0 +1,86 @@
+{
+ "id": "i000",
+ "kind": "resource",
+ "section": "1.1",
+ "sectionTitle": "Introduction and Theories of Moral Standing",
+ "unit": 1,
+ "unitTitle": "Introduction",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/1/1",
+ "pagePath": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/page.md",
+ "url": "https://docs.google.com/document/d/1Y67O81iToxCX6UjxCksyB8Y6RySZEMXMUko_JJ14hXY/edit?tab=t.0#heading=h.kbw9xzk4twrf",
+ "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/01-introduction-to-digital-minds-primer.md",
+ "sourceFile": "sources/introduction-to-digital-minds-primer__9b7b6b5e.md",
+ "sourceRel": "../../../../sources/introduction-to-digital-minds-primer__9b7b6b5e.md",
+ "sourceStatus": "ok",
+ "sourceWords": 4806,
+ "sourceMethod": "text",
+ "formatHint": "course-team primer (written by the course team)",
+ "title": "Introduction to Digital Minds Primer",
+ "authors": "Cambridge Digital Minds Course Team",
+ "year": 2026,
+ "priority": "Core",
+ "timeMins": 38,
+ "guide": "_Introduces key terms, background viewpoints and reasons for and against prioritising digital minds work._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Taking AI Welfare Seriously",
+   "path": "02-taking-ai-welfare-seriously.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Digital Minds II: Ethical Issues",
+   "path": "03-digital-minds-ii-ethical-issues.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Against AI Welfare: Care Practices Should Prioritise Living Systems",
+   "path": "04-against-ai-welfare-care-practices-should-prioritise-living-s.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Introduction to Digital Minds Glossary",
+   "path": "05-introduction-to-digital-minds-glossary.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI Consciousness: A Centrist Manifesto",
+   "path": "06-ai-consciousness-a-centrist-manifesto.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Futures with Digital Minds: Expert Forecasts in 2025",
+   "path": "07-futures-with-digital-minds-expert-forecasts-in-2025.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Illusions of AI consciousness",
+   "path": "08-illusions-of-ai-consciousness.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Problem Profile: Moral Status of Digital Minds",
+   "path": "09-problem-profile-moral-status-of-digital-minds.md",
+   "priority": "Further"
+  },
+  {
+   "title": "The Memetics of AI Successionism",
+   "path": "10-the-memetics-of-ai-successionism.md",
+   "priority": "Further"
+  },
+  {
+   "title": "What Would Qualify an Artificial Intelligence for Moral Standing?",
+   "path": "11-what-would-qualify-an-artificial-intelligence-for-moral-stan.md",
+   "priority": "Further"
+  },
+  {
+   "title": "whenaiseemsconscious.org",
+   "path": "12-whenaiseemsconscious-org.md",
+   "priority": "Further"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

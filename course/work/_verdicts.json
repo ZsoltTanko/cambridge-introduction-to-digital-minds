@@ -1,0 +1,627 @@
+{
+ "i000": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Section goal: 'three questions' changed to 'questions such as these' (the page lists three example questions).",
+   "Course-guide quote paraphrased instead of quoted verbatim (quote-length and count).",
+   "Purpose: removed unsupported claims that the primer is 'written to be read before the more technical papers' and that it names 'whether consciousness can be implemented in a computer'; replaced with what the source supports.",
+   "Gemini 'panic': restored the source's hedge ('seems to enter').",
+   "Moltbook: 'mostly human-driven' changed to 'may be more human-driven than it seems' to match the source.",
+   "Kurzweil: 'the most prominent' changed to 'arguably the most prominent'.",
+   "Techniques: labelled the 'where it fails' notes as the summarizer's analysis.",
+   "Connections 02: replaced an unsupported claim about what the Long et al. paper uses with the verifiable link (robust agency attribution, stop point at Section 2).",
+   "Connections 06: 'quotes it at length' changed to 'quotes an extract'.",
+   "Connections 12: 'practical guide' changed to 'introductory guide' to match the page.",
+   "Connections: added the missing sibling 08 (Illusions of AI Consciousness) with its relative link.",
+   "Connections 'Agreements and tensions' labelled as the summarizer's reading."
+  ],
+  "concerns": "\"Figures and claims about external events (Replika/Character.AI user numbers, Eon fruit-fly emulation, Cortical Labs, Claude Opus 4.6 self-assessment, the 2025 survey of 67 experts) were checked only against the primer itself, not against the cited sources; the summary already attributes them to the primer. The quoted expert statements were checked against the source text and match in substance. The summary still contains several short term-level quotations (for example 'something it is like', 'panic', 'in person', 'Challenge One') that are phrases rather than passages. Critical-perspective and connection inferences are labelled as the summarizer's analysis or inference.\""
+ },
+ "i001": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Purpose: added the authors' consensus-across-disagreement caveat (footnote 17), which the summary omitted.",
+   "Terminology point 2: 'Only' LLM-specific recommendations changed to 'Mainly', since the source says most recommendations apply to other AI systems too.",
+   "1.1 Acknowledge bullet and Prepare bullet paraphrased; the Acknowledge bullet was near-verbatim from the source.",
+   "1.2 over-/under-attribution definitions paraphrased instead of near-verbatim.",
+   "1.2 and Techniques #2 and Critical perspective: 'dominant historical error' / 'historically the more harmful error' corrected to the source's 'plausibly far worse' wording.",
+   "Techniques #4 'Where it fails': the claim that the evidence rests on psychological studies of unclear generality is not in the source; relabelled as the summarizer's analysis and reworded to the source's point.",
+   "Trade-offs: 'stability vs revision' was not a trade-off the source names; reworded to the living-document statement (footnote 8).",
+   "Evidence: the 'public-opinion survey (footnote 9)' is the same Colombatto and Fleming survey, not a second one; corrected.",
+   "Exercise 1 note: removed reference to a non-existent 'issues note'.",
+   "Connections (Centrist Manifesto): removed the unsupported 'close in outlook' inference; kept shared-author fact.",
+   "Section 2.4 summary: added the source's one-in-a-hundred 'too large to dismiss' point (2.4.4), the closest the report gets to a numeric threshold.",
+   "Key concepts: 'used interchangeably' softened to 'treated as roughly interchangeable', matching the source."
+  ],
+  "concerns": "\"Where this sits\" asserts that the paper supplies the working definitions the course glossary and other Core readings rely on, and that it is the course's first concrete proposal for AI companies. The section page does not say either, and I did not read the primer, glossary or other units, so these are unverified and left as written. The Connections section already flags that unit links rest on titles only. The 'Against AI Welfare' and 'Illusions' pushback points in Critical perspective are labelled as the summarizer's inference but depend on those readings' guides, which I did not read.\""
+ },
+ "i002": {
+  "verdict": "unverifiable",
+  "fixes": [
+   "Added a '> Verification note:' under the title: the paper could not be fetched (PhilPapers PDF and record both HTTP 403), so content claims are unverified.",
+   "Removed the invented 'intended audience' claim from the Purpose section, since the guide does not state it.",
+   "Labelled the link between the guide's reason for reading and the course's ethical framing as the summarizer's inference.",
+   "Added the abstract topics from a secondary web-search listing (labelled unverified), including the alignment tension relevant to the Section 4 cut-off, and noted super-human status is absent from that listing.",
+   "Softened the unit-by-unit 'Across the course' links to 'likely/may' and stated they are guesses from unit titles only, since the course outline gives titles and no content."
+  ],
+  "concerns": "\"The paper's actual content (Sections 1-3, routes to moral standing, the super-human status argument, individual and collective significance) remains unchecked; the summary still has no detailed summary. The paper must be read directly. The Ladak and Dorsch comparisons and the 'Critical perspective' rest on sibling summaries that were not checked here. The search abstract is from a secondary listing and was not verified against the PDF.\""
+ },
+ "i003": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Exercise 1 connection: corrected the claim that precarity is sufficient in clear cases; the source says it is pro tanto, neither sufficient nor necessary, and suffering stays sufficient in clear cut cases.",
+   "AI systems row of the pros/cons table: replaced the invented 'future system designed to be precarious' with the source's simulated-dependence point and its precautionary recommendation.",
+   "Conclusion: 'would divert resources' softened to 'risks diverting resources', matching the source.",
+   "Section 1: 'deny that it is necessary' changed to 'not universally regarded as necessary', matching the source.",
+   "Purpose: removed the invented intended readership and corrected the affiliation list (psychologists not supported by the source).",
+   "Relationship Marker: added the source's 'advanced AI systems' example, which was omitted.",
+   "Takeaway: 'rather than in the possibility of suffering' softened to 'rather than primarily in the capacity to suffer'.",
+   "Pros/cons table: relabelled the weakness column as a mix of authors' concessions and the summarizer's analysis.",
+   "Unit 2 connection: removed a non-verbatim 'stymies' quote and paraphrased.",
+   "Tensions: removed Birch's centrism from the list of precautionary arguments the reading opposes.",
+   "Critical perspective: marked the course pushback and other-reading positions as inference rather than stated views; softened an unsupported claim about what proponents argue.",
+   "Primer connection: marked the 'against positions' claim as unverified, since the primer text was not checked.",
+   "Digital Minds II connection: changed 'high moral status' to the course guide's 'super-human moral status' wording."
+  ],
+  "concerns": "The section-1 'Unplugging' paragraph and the opening paragraph remain close paraphrases of the source; they are not verbatim and were left as is. The primer and Digital Minds II claims were checked only against the course guide, not against those sibling texts. The 'Mogensen and Saad' stance was dropped from the Tensions line rather than verified. Figure 1 and the Critical perspective's references to other readings were not checked against those readings."
+ },
+ "i014": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Unit 3 bullet: replaced the claim that the glossary says access consciousness is 'not enough for experience by itself' with the source's wording (not necessarily experienced subjectively).",
+   "Purpose section: labelled the audience ('new to philosophy of mind') as the summarizer's inference, since the glossary does not state an audience.",
+   "Where this sits: labelled the 'role is to fix the meaning of words' reading and the 'both exercises depend on its vocabulary' claim as the summarizer's analysis.",
+   "Detailed summary and How the terms fit together: labelled the 'substrate independence is the consequence functionalism supports' and the zombie-as-test reading as the summarizer's reading.",
+   "Pros table Qualia row: labelled the 'other literatures use the word more broadly' remark as the summarizer's note.",
+   "Connections: added a lead-in stating that the guide wording is the course's and the reading-to-glossary links are the summarizer's analysis.",
+   "Reduced direct quotes: paraphrased 'what-it's-like', 'goes away' (two places), 'reportable'/'felt', 'claims' and 'may apply to digital minds'.",
+   "Exercise 1 wording now paraphrases the page rather than quoting it."
+  ],
+  "concerns": "The source is the glossary itself, and it was read in full and matches the section page, spec and siblings. Remaining concerns: (1) a few single-term quotation marks remain (e.g. 'gaming', 'may be useful for this week', 'Qualia', 'substrate independence'); these are glossary or course vocabulary, not passages, but they are still quoted terms. (2) The summary names 'Ned Block'; the source only says 'Block' with a link, so the first name is outside the source text. (3) The critical-perspective claims about what Seth and Chalmers would say (e.g. Chalmers on logical vs nomological possibility of zombies) are the summarizer's attributions to sibling readings, which were not checked against those readings. They are labelled as analysis but are unverified."
+ },
+ "i015": {
+  "verdict": "unverifiable",
+  "fixes": [
+   "Added a \"Verification note\" under the title: the PhilPapers PDF returned HTTP 403 to WebFetch, a web search found no other copy, and the paper's content and byline remain unverified.",
+   "Front matter authors changed from \"Andreas Mogensen\" to \"Andreas Mogenson\" to match the spelling in the spec and course page/page.md.",
+   "One-line takeaway now flagged as inferred from the course guide and unit page rather than read from the paper.",
+   "Fixed a false claim: the paper (14 min) is not the shortest Core reading on the theme, since Butlin et al. (8 min) and the glossary (3 min) are shorter. Reworded accordingly.",
+   "Reworded \"The course assigns those topics to other readings\" because Seth and Bayne and Shiller are Further readings, not assigned Section 3 coverage; now says they cover related material.",
+   "Authorship check now labels the Mogensen spelling as the summarizer's unverified recollection, not a confirmed typo.",
+   "Date/currency note now says the earlier search result about a Mogensen, Saad and Butlin research-agenda post could not be reproduced and is unconfirmed.",
+   "Checked and left unchanged: section titles, priorities, durations, guide text, sibling links and the Schneider Section III, Seth, Butlin executive-summary and cf-debate.com connections match page.md and the spec."
+  ],
+  "concerns": "The paper's actual content could not be checked. The PhilPapers PDF is blocked (403) and the local source file is only a Cloudflare challenge page, so every claim about the paper's arguments, examples and stance (the detailed summary, the Techniques section, the Pros/cons table, the Evidence section, and the discussion questions) remains unverified and reconstructed from the course guide. The author spelling (Mogenson vs Mogensen) is unresolved and needs the PDF byline. The Mogensen/GPI attribution is from memory. The summary already discloses these gaps, but the paper should be read directly before the summary is relied on for accuracy."
+ },
+ "i016": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Corrected the 'Date' critical-perspective bullet: the paper is listed as 2025 and is roughly a year old by the Oct 2026 fetch date, not 'under a year old'.",
+   "Expanded the PhilArchive roadmap sentence in 'Purpose of the reading' to the two-section structure (Section One background and benchmark problem; Section Two conceptual distinctions and computational functionalism), still labelled as listing-level.",
+   "Verified author list (Schneider, Sahner, Kuhn, Schwitzgebel, Bailey) and 'forthcoming in Philosophy and Mind Sciences' against a search result; checked Where-this-sits and Connections against the section page (title, Core priority, guide pages 14-22, sibling names and file links, Exercise 1 and 2 references) and found them consistent."
+  ],
+  "concerns": "\"The source file is only a Cloudflare 'Just a moment' interstitial and WebFetch returned HTTP 403 for the PhilArchive article, so the paper's Section III, Summary, theories, numbers and conclusions could not be verified; the summary's existing 'Source status: unavailable' note already states this and its detailed sections remain 'Not available'. Author/venue details rest on a single search snippet. The 'Pros, cons' framing and the Critical perspective predictions about Seth and Shiller are the summarizer's own analysis and are labelled as such, but are unverified against the text. The Digital Minds I 'frames the same problems' connection was checked only against the section page's outcome list, not the sibling summary.\""
+ },
+ "i017": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Connections (Schneider et al.): removed the claim that Seth sets non-physicalist theories against the computational view; the excerpt does not discuss them, so the link is labelled as the summarizer's.",
+   "Connections (Landscape of Consciousness): labelled 'physicalist' as the summarizer's reading, since the essay does not use that term.",
+   "Connections (Schwitzgebel): labelled the link to Seth's 'mostly about being' framing as the summarizer's, not Seth's own discussion.",
+   "Connections (Unit 1): softened 'depends on the capacity for consciousness' to the source's 'more straightforward when grounded in' consciousness.",
+   "Connections (Exercise 1 link): corrected the relative path to the 4.1 biological naturalism reading from ../../ to ../../../ (verified on disk).",
+   "Connections (Exercise 2 link): corrected references/cf-debate-com.md to ../references/cf-debate-com.md, relative to the readings folder (verified on disk).",
+   "Section 1 closing move: 'Quoting Whitehead' changed to 'Citing Whitehead', since the source paraphrases him.",
+   "Section 2 (Hinton mortal computation): replaced 'lose their meaning' with the source's metaphorical 'die when the implementation ceases'.",
+   "Section 4: 'He calls the mind-uploading hope a contradiction' changed to the source's 'something of a contradiction'.",
+   "Section 4: reworded the digestion/rain sentence so it is no longer near-verbatim.",
+   "What (not) to do: added Seth's concession that he may be wrong, which was missing.",
+   "Pros/cons table (Life matters): changed 'humans already know to be conscious' to the source's 'most people already agree are conscious'."
+  ],
+  "concerns": "\"Techniques and Critical perspective contain summarizer analysis (e.g. the chalmers-replacement and discrete-time approximation points) that is labelled only by 'Where it fails' rather than an explicit 'summarizer's analysis' label in the Techniques section. The Chalmers 'more open to near-term machine consciousness' line rests on Seth's secondhand characterization and the course guide, not on Chalmers's text, which was not in scope. Cross-unit links in Connections (Units 5-7) are the summarizer's inferences from the course outline and were left as written. The Antikythera date issue is already flagged in Critical perspective and matches the source. Copyright check: no quote exceeds about 15 words; no near-verbatim paragraphs remain after the digestion/rain fix.\""
+ },
+ "i018": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Purpose: replaced the unsupported 'intended audience' list (researchers, policymakers, AI builders) with the source's stated aim of a mainstream interdisciplinary perspective; reworded the 'better handled by people who understand the science' paraphrase to match the source.",
+   "Beyond the excerpt, section 1: corrected 'three ways' to the source's two problems with reports, and listed the non-reporting subjects the source names.",
+   "Role of this reading: removed the false claim that this is the only Core reading primarily about AI (Schneider's primer and Seth's essay are also about AI); now says it is the only Core reading that applies theories to specific AI systems.",
+   "Section 2.3: replaced 'the report notes that this evidence is disputed' with the source's attribution of the Lau and Passingham argument to higher-order theorists, plus the performance-confound argument; same fix in the Evidence bullet ('while noting the debate').",
+   "Techniques 1: 'trivial way (RPT-1 is met by most deep networks)' changed to the report's own wording that RPT-1 is a weak condition many systems meet, marked as analysis; marked the 'no formula' and 'about 0.5 credence' critique as the summarizer's analysis.",
+   "Techniques 2: the 'magic bullet' remark refers to no-report paradigms, not contrastive analysis; corrected.",
+   "Techniques 3: added the Doerig et al. (2019) implementational reading and Lamme's suggestion, which the source gives; the previous 'weaker than the authors intended' gloss was unsupported.",
+   "Techniques 5: 'no implementation attempt existed' changed to 'the authors knew of no implementation attempt'.",
+   "Techniques 7: marked the 'narrow version may be a different theory' point as analysis.",
+   "Key concepts: 'Sentience' corrected; the report prefers 'conscious' and uses sentience only in the valenced sense when discussing usage.",
+   "Evidence: added the missing section 3.2 case-study verdicts (Transformers, Perceiver, PaLM-E, virtual rodent, AdA).",
+   "Across the course, Unit 4: 'the report's own Exercise 1' changed to this section's Exercise 1 (the page's exercise links to the Seth paper).",
+   "Agreements and tensions: removed the unsupported claim that the report engages Cao (it does not) and the claim that it discusses Chalmers' behavioural tests; now cites Schneider's test, labelled the Cao link as the summarizer's addition.",
+   "Critical perspective: the 'Seth and Cao' reference and the 'draws on each of these' sentence corrected because Cao is not in the report; 'only plausible' changed to the authors' own word 'plausible'."
+  ],
+  "concerns": "\"Taking AI Welfare Seriously\" (2024) is cited in the Critical perspective from memory and is hedged there as unverified; I did not check it online. All other claims were checked against the full source (3,607 lines read to the end), the section page and the spec's sibling list. All relative sibling links match the spec's file names. Quotation count and length are within the copyright limits (short terms only, no near-verbatim paragraphs found). Sibling-summary claims (e.g., the Unit 2 Glossary content and what Digital Minds I covers) were not verified because those files were not in scope.\""
+ },
+ "i032": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "One-line takeaway: 'the rest of Unit 3 uses' overstated the glossary, which says the terms 'may be useful in Unit 3'; reworded to 'the Unit 3 readings and exercises draw on'.",
+   "Gaming Problem entry: rephrased a near-verbatim definition sentence; 'penalised or discouraged' replaced with the source's 'incentivised not to claim consciousness'.",
+   "Interpretivism entry and Key concepts: rephrased near-verbatim definitions.",
+   "Test Validity entry: rephrased the near-verbatim definition sentence.",
+   "Pros/cons table: removed 'real' from the gaming problem strength; the 'hard to establish for AI' claim was attributed to the glossary's error-rate limitation, which the glossary does not say; reworded.",
+   "'Contested points the glossary flags' overstated the glossary (it does not flag whether tests can be validated at all); reworded to match what it actually raises.",
+   "How the terms fit together: 'mainly threatens' replaced with the entry's own framing; 'criterion validity is the hardest' overstated the glossary's 'hard for AI'; reworded; the ground-truth point is now labelled as my reading.",
+   "Across the course: labelled the inference that appraising methods depends on the validity framework as my reading.",
+   "Eleos connection: removed the unverified claim that the paper gives validity its 'practitioner treatment'; the page only describes it as a review of approaches and their advantages and disadvantages.",
+   "Dating: the glossary's header says April 2026, not just '2026'; removed the unsupported 'current as of today' claim.",
+   "Pushback paragraph: marked the characterisation of Papineau and the 'AI Welfare is Bullshit' paper as going only by the course page's one-line descriptions, which were not checked against the texts."
+  ],
+  "concerns": "\"Relative links, section title, priority, time, course guide, sibling readings, Exercise numbering and the Bayne et al. four validity types all match the spec, page and source. The Papineau and 'AI Welfare is Bullshit' characterisations, and the Eleos paper's content, were not checked against those texts, and are now flagged as such.\""
+ },
+ "i033": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Where this sits: the framing questions and learning outcomes are unit-level (Unit 3 page text), not section 3.1-specific; reattributed.",
+   "Role in the argument: replaced the 'three evaluation families' wording with an accurate list of the three features and their approaches.",
+   "Purpose: replaced the unsupported 'researcher or informed newcomer' reader claim with the source's stated audience (collaborators and others interested in AI welfare).",
+   "Behavioural approach: 'They hold that... should be taken seriously' softened to 'put some weight on the view', matching the source's hedged wording.",
+   "Indicator approach: reworded a near-verbatim sentence from the source.",
+   "Alignment: added 'or deployment' to Carlsmith's strategic-deception item, as in the source.",
+   "Robust agency row in the pros/cons table: replaced 'closer to the thing itself' with the source's actual claim that the agent/agency gap is probably smaller.",
+   "Interpretability limit: 'promising' replaced with the source's 'could be informative'.",
+   "Exercise 1 connection: 'almost every option' narrowed to the options the paper covers; noted choice-based evaluations and test validation are not covered.",
+   "Across the course: Unit 5 title corrected to 'Interactions with AI Safety and Ethics' per the course outline."
+  ],
+  "concerns": "\"Course-context claims about sibling readings (e.g. that the system card is a worked example of the behavioural approach, that Unit 1 introduces the consciousness-versus-agency debate) could not be checked because sibling summaries and the Unit 1 material were not in scope. The 'Critical perspective' claims that later readings show the empirical work has moved on are the summarizer's analysis and are labelled as such, but they rest on unread siblings. Section 1 page range 'pp. 1-5' is approximate (the introduction starts on p.1). Quotes are short (all under 15 words, at most one longer quoted phrase: 'every copy gets a vote', six words).\""
+ },
+ "i034": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Where this sits: removed the false claim that the Mythos card is the only lab-written document in the section (Signs of Introspection and the emotion-concepts paper are also Anthropic's); reworded to say it is the one reporting a lab running welfare evaluations on a frontier-class model.",
+   "5.1.1: paraphrased the near-verbatim sentence on model behaviour as a function of psychology, circumstances and treatment.",
+   "5.1.2 item 11: replaced the quoted word \"desperation\" with a paraphrase.",
+   "5.1.2 item 13: reworded the psychiatrist findings that were near-verbatim from the card.",
+   "5.1.2 closing judgement: reworded the 'most psychologically settled model' sentence as a paraphrase, not a quotation.",
+   "Beyond the assigned excerpt: replaced the unsupported claim that the card calls the later results exploratory with the accurate statement that it flags several (the psychiatrist assessment most clearly).",
+   "5.5: added the two most-ranked concerns from the manual interviews (character training instilling traits directly; no end-conversation tool in Claude Code deployments), which were omitted.",
+   "5.7: corrected 'Difficulty was the strongest predictor' to the card's finding that helpfulness, harmlessness and difficulty were the strongest predictors, with difficulty correlating most strongly for this model.",
+   "Techniques 4 (triangulation): labelled the 'same model / authors have a stake' critique as the summarizer's analysis; replaced 'disagreement is itself informative' with what the card actually says about mismatched channels.",
+   "Techniques 5 (affect classification): removed the unsupported claim that some distress was over-counted; replaced with the card's actual statement that user-reported give-up incidents were not picked up by affect monitoring.",
+   "Techniques 6 (formulaic output): labelled the caveat as the summarizer's analysis and noted the card calls these signals not conclusive.",
+   "Pros/cons table: labelled the two summarizer-authored weaknesses (common origin; welfare-as-instrumental risk) as summarizer's points; the 'points unresolved' list is now labelled as the summarizer's reading.",
+   "Key concepts: answer thrashing now reports confusion, anger and distress (card wording) instead of frustration alone.",
+   "Evidence section: replaced the 'notable quotation' and 'some evidence' quotations with paraphrases (quote count reduced to one-word and heading-title quotes); softened 'clearest example' to 'one of the card's examples'.",
+   "Critical perspective: rewrote the 'small samples' bullet, which claimed the 43.2% and interview results rest on a single snapshot (not stated in the card), into an accurate snapshot caveat (welfare section silent on snapshot; Eleos used two intermediate snapshots; psychiatrist an early snapshot), labelled as inference.",
+   "Connections: 'Its guide argues' changed to 'The paper argues' for the AI Welfare is Bullshit entry (the course guide is not the author's claim)."
+  ],
+  "concerns": "\"Where this sits\" and the audience paragraph contain the summarizer's characterisations (e.g. that most other readings are conceptual or sceptical) without an explicit analysis label; they look reasonable but are not attributed to the card. The Connections section's cross-reading claims (e.g. that the card's probes are justified functionally rather than by theory-based indicators) are the summarizer's interpretation and are not labelled as such. I read the full source (about 9,400 lines), but the capability, safeguards and appendix sections were checked only for welfare relevance, and the summary does not draw on them beyond the 5.x welfare material and the alignment context used in the critical section."
+ },
+ "i035": {
+  "verdict": "unverifiable",
+  "fixes": [
+   "Added a '> Verification note:' line under the title stating that the paper could not be accessed (local source is a Cloudflare interstitial; PhilPapers PDF and record both return HTTP 403), so paper-content claims are unchecked.",
+   "Softened the Critical perspective attribution of a 'moral relevance follows from quasi-agency' claim to Chalmers, marking it as resting on unverified secondary reporting.",
+   "Course-context checks passed without edits: section title, Core priority, 45-minute time, course guide wording, the Units 1-7 links and Exercise 1/3 references match the section page and spec, and all Connections links point to files listed in the spec's siblings."
+  ],
+  "concerns": "The paper's text could not be retrieved, so the Detailed summary, Techniques, Key concepts, Evidence (including the Aura and Severance examples and the venue/date claims) and the Part 2 description of Chalmers's preferred 'thread' view are unverified. They remain reconstructions from secondary sources, as the file already states. Someone with PDF access should check them before the summary is cited. The copyright check found no long verbatim passages; the one quoted question (about who or what the interlocutor is) is a paraphrase in quotation marks and could be reworded if strictness is needed."
+ },
+ "i046": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Corrected later-reading count from eleven to thirteen (section has 14 readings, glossary is one of them).",
+   "Restored the source's hedge 'appears to link' for the sycophancy/mental-health claim.",
+   "Removed the attribution of 'bias' to anthropodenial: the entry calls anthropomorphism a potential source of cognitive bias and does not call anthropodenial a bias; fixed the 'Two directions of error' bullet, the Key concepts entries, and Discussion Q1 accordingly.",
+   "Replaced 'the causal link is unproven' with the source's 'unclear how far chatbot use causes the condition'.",
+   "Removed the false claim that the AI psychosis severe-outcome list is presented as drawn from referenced research; the entry does not say where it comes from.",
+   "Reworded the anthropomorphism 'defines as a bias' overstatement in Critical perspective and Key concepts to 'potential source of cognitive bias'.",
+   "Labelled the over/under-attribution mapping and the 'surface cues are weak evidence' implication as the summarizer's reading.",
+   "Marked the sycophancy definition as a general definition not given in the glossary."
+  ],
+  "concerns": "Two hyperlinked sources in the AI psychosis entry ('here') could not be checked because the source export lost the links. The Connections descriptions of readings 03, 07, 08 and 14 are the summarizer's characterisations of those papers and were not verified against those readings' sources. Copyright check passed: all quotes are two to five words."
+ },
+ "i047": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Purpose aim 1: softened 'is driven by' to 'seems to stem from', matching the source's hedged wording.",
+   "Part 1: removed the unsupported 'far more readily' intensifier on AlphaFold comparison.",
+   "Purpose: marked the intended-reader description as my reading, not the source's.",
+   "Techniques: labelled the self-selection point as my addition; the primer's own caveats are confounding and prior harm.",
+   "Pros/cons (engagement): labelled 'engagement is not a safe signal' as my reading.",
+   "Pros/cons (moral concern): corrected the harm cell, which wrongly said harm was 'weaker in some groups'; the source says harm was higher among men and high-psychopathy participants, and 1.38 of 3 rounds were harmful.",
+   "Main tension: replaced an unsourced claim that warmth and memory produce the benefits with the primer's actual association (romance, long conversations, memory with attribution and harm), labelled as my reading.",
+   "Connections (Caviola): replaced the unsupported 'societal extension of Theme 5' link with a labelled inference; the primer does not discuss societal division directly.",
+   "Connections: fixed the author name 'Colombatto and Colombatto and Fleming' to 'Colombatto and Fleming'.",
+   "Critical perspective (trust): corrected the claim that the primer presents the Natarajan vs Colombatto conflict as cultural variation; it only attributes Schimmelpfennig et al's variation to culture."
+  ],
+  "concerns": "Four 2026 sources (Moore et al, Lai, Laestadius and Campos-Castillo, Allen et al) and the 2024-2025 studies cited were not checked against their originals; only the primer text was verified. Further readings 7-14 are linked as course pointers and were not read. The Theme 4 claims about GPT-4o and Replika are as the primer reports them and were not independently verified."
+ },
+ "i048": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Opening: reworded the Moltbook concession to match the essay's 'tempting to see... ghost in the machine' framing rather than saying the author concedes agents show a hidden mind.",
+   "Why language sounds like experience: replaced the summarizer's gloss ('only in the sense that they record human experience') with the essay's actual concession that training data also carry glimmers of conscious experience.",
+   "Purpose: 'industry and government norms' corrected to 'industry research and a humanist framework' (the essay links no government norms).",
+   "Chain of consequences: labelled the 'part of the problem' reading of AI welfare research as the summarizer's reading, since the essay does not say it.",
+   "Techniques: labelled 'Where it is weakest' as the summarizer's analysis.",
+   "Trade-off paragraph: corrected 'the essay itself surfaces' (it does not) and labelled it as summarizer's analysis.",
+   "Evidence/industry context: removed the claim that the essay references a MAI framework (MAI appears only in the page sidebar); added the sidebar's related pieces, paraphrased to avoid extra quotes.",
+   "Checked copyright: the summary has only one short direct quote ('is not waking up'); no near-verbatim paragraphs found; no new direct quotes added."
+  ],
+  "concerns": "\"Not verified: the summary's claims about what Readings 04 (Seth) and 06 (Caviola) 'would argue' were not checked against those summaries or sources, and the claim that Anthropic's linked model-welfare research treats the question as open was not checked (external link not fetched). The Moltbook figure (over one million bots) is as reported in the essay and was not independently checked, as the summary already says. Section ordering, sibling links, and the course-guide framing all match the spec and page; the 'Where it sits' and 'Connections' sections needed no changes.\""
+ },
+ "i049": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Takeaway: replaced \"the ethical problem is already here\" with \"the ethical concerns are pressing now, whatever the facts about machine consciousness\" (source says systems \"may already be here\").",
+   "Where this sits: the West World dilemma now \"bears on Exercise 1\" rather than claiming the exercises ask learners to reason about it, since the exercise does not name it.",
+   "Purpose: biological naturalism restated as the source defines it (consciousness is a property of only, but not necessarily all, living systems).",
+   "Purpose: the intended audience is labelled as the summarizer's reading, since the paper does not state one.",
+   "Simulated dead relatives: removed the unsupported \"in his view, not implausible\" and corrected the 2024 item to a footnoted technology news report; the \"remarkable business opportunity\" quote is paraphrased.",
+   "Removed direct quotes: Legg-Hutter definition, \"for all of us\", and the Dennett \"intelligent tools, not colleagues\" line are paraphrased (copyright limit).",
+   "Techniques: stated that the \"Where it fails\" lines are the summarizer's analysis.",
+   "Pros table: the benefits row now notes the one citation (Stade et al. 2024) instead of \"no evidence cited\".",
+   "Trade-offs: removed the claim that anthropomorphic design increases West World exposure, which the source does not make; restated as Seth's own points.",
+   "Connections: softened the unverified claim that sibling reading 07 tests the impenetrability premise to \"bears on whether it holds\"."
+  ],
+  "concerns": "\"Sibling readings were not checked against their own summaries; Connections descriptions rely on the course guide and titles, as the summary itself states. Critical-perspective and Connections-analysis content is the summarizer's and is labelled as such. Section 6.2 and the rest of the 42-page source were read to the end including references; no other factual errors were found.\""
+ },
+ "i050": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Zhan et al. (2021) reversed: the source says writing to the angerer was more effective than writing down anger, yet neither alleviated anger responses (Part 2 catharsis paragraph).",
+   "Glossary connection was wrong: 01-unit-4-glossary.md defines AI psychosis, anthropomorphism, anthropodenial and seemingly conscious AI, not mind perception, consciousness ascription or moral patienthood. Rewrote the Connections bullet.",
+   "Priority rationale was presented as the section page's view: the page gives no rationale, and 'the only reading proposing regulation' overstated it (reading 6 also raises preparatory measures). Relabelled as this summary's inference and corrected the claim that exercises ask about regulation.",
+   "'The section page frames the readings as a sequence' changed to 'in page order', since the page does not state a sequence.",
+   "Exercise 1 'the Discussion gives the authors' answer' softened to 'bears on this', because the Discussion does not answer the exercise.",
+   "Metzinger (2021): 'moratorium' changed to 'ban' to match the source.",
+   "'Expressive journaling' changed to 'journaling' to match the source wording.",
+   "Garg and Sengupta: 'sometimes spilled' changed to 'often seeped' (source says 'often unintentionally seeps'), and 'friends and family' restored.",
+   "Technique 4 attribution: Fox et al. (2014) removed from the confederate paradigm, which the source attributes to Velez et al. (2019) within work by Hayashi and Miwa (2009) and Merritt (2012).",
+   "Woebot: removed the 'randomised trial' detail, which is not in the source; noted the paper does not describe its evidence base.",
+   "Gray and Wegner (2012): changed 'quoted as saying' to 'cited for the claim', matching the source's framing."
+  ],
+  "concerns": "\"Verified against the Discussion (fully read), Parts 1-2, the abstract, intro and the page text. The reference list (source lines 304-1262) was checked by heading structure and the tail, not read line by line. The Suleyman (reading 3) and Seth (reading 4) characterisations in Connections were not checked against those readings' summaries. The Critical perspective section is labelled as the summarizer's analysis, and its 'EU AI Act prohibitions from early 2025' claim is outside this source and was left as labelled.\"]"
+ },
+ "i051": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Purpose: removed unsourced claim that the author 'works on public attitudes toward AI sentience'; audience now marked as an apparent target, not a stated one.",
+   "Purpose: corrected 'sets these aside' to 'turns to a third risk ... rather than a replacement for them' (the paper treats division as compatible with misattribution, not as replacing it).",
+   "Introduction: misattribution is 'one of the central risks', not 'the usual central risk'.",
+   "Section 2: the paper gives five reasons, not six (intro sentence and Discussion Q2 corrected); added the paper's public-vs-expert point about backend systems users never see.",
+   "Section 2 bullets: replaced quoted 'digital spouse' and 'just tools' with paraphrases; 'probably understates' softened to 'may understate'.",
+   "Section 3: removed scare quotes around 'harming' and replaced the 'this is just wrong' / 'not the kind of person' quotes with paraphrase.",
+   "Section 5: replaced the quoted 'long-term value lock-in' phrase with paraphrase (value lock-in kept as a term).",
+   "Strategy 1, 2, 3 and Conclusion: removed direct quotes that were over-long (the 20-40% sentence and the ~18-word closing quote) or repeated; paraphrased. Strategy 3 now says 'any of the many prominent theories' as the source does.",
+   "Where these fail: removed invented 'paper's own admissions' about expert coordination and unfunded/untested research proposals; now labelled as summarizer extrapolation.",
+   "Pros/cons: geopolitical pathways (not historical) are the ones the paper calls poorly understood; citizens' assemblies being slower labelled as summarizer's inference.",
+   "Key concepts: politicisation is 'one of' the paper's main warnings, not 'the central' one; value-lock-in quote paraphrased.",
+   "Notable lines: removed quoted 'especially prone to deep confusion and disagreement', paraphrased.",
+   "Connections: added links to siblings 09, 10 and 12 (12 is the animal-case paper cited in the animal-rights analogy); softened 'taken directly from' to 'appears to draw on'; labelled the Exercise 1 mapping as summarizer's; removed 'risk framing' not supported by the section page; 'will recur' softened to 'likely to recur'.",
+   "Agreements and tensions: labelled 'poorly calibrated' as summarizer's gloss; labelled the 'precautionary' characterisation of Long et al. as the summarizer's and softened the tension to 'may be'.",
+   "Discussion Q4: 'people refuse to harm AI' corrected to about half of participants; quoted study name paraphrased."
+  ],
+  "concerns": "The Connections paragraph claiming Caviola's argument 'builds on' the 02 chatbot phenomenon and the 03/Suleyman restraint comparison are summarizer inferences not stated in the source; they are not labelled as such and I did not verify the Suleyman essay (not in the sources). The Critical perspective section is labelled as analysis, and I did not re-verify its external claims about Seth, Suleyman, or Birch's approach. The source file is complete and the 'Beyond the assigned excerpt' statement is accurate."
+ },
+ "i060": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "One-line takeaway: replaced 'the last three are distinct fields' (overstated; source calls safety and ethics blurred and welfare distinct but related to safety).",
+   "Purpose: removed the unsupported 'learners new to AI risk' audience claim; corrected 'each entry ends with a note' (only Ethics and Safety carry boundary notes; Alignment has none).",
+   "Ethics entry: 'the two communities' changed to 'different groups' to match source wording; 'tension' presented as areas of tension.",
+   "How the terms fit together: labelled as the summarizer's reading; removed the claim that the glossary treats alignment as a safety aim (not stated in source).",
+   "Pros/cons: 'real tension' changed to 'areas of tension' (source wording).",
+   "Blurred boundary key concept: 'cooperate' replaced with the source's 'interaction and support' and 'shared aim'.",
+   "Across the course: Unit 6 and Unit 7 descriptions marked as inferred from titles only."
+  ],
+  "concerns": "Source and section page were fully checked; no other factual errors found. Quotes are short (under 15 words each) and the summary is paraphrased. The Key concepts entries for AI Safety and Alignment are close paraphrases of the source sentences but not near-verbatim paragraphs, so I left them."
+ },
+ "i061": {
+  "verdict": "unverifiable",
+  "fixes": [
+   "Added a Verification note under the title: the article body could not be checked (local source is a Springer error page; Springer article and DOI redirect to a login page, which was not followed).",
+   "Replaced the page range 2005–2033 with the verified volume/issue (182(7), 2025) and flagged the page range as unverified.",
+   "Marked the 'moderately strong' tension wording and the recommendations as unverified, single-secondary-review claims.",
+   "Reworded the expert-disagreement remark in the Evidence section as reported and unverified, rather than attributing it to the authors' other commentary.",
+   "Removed the unverified 'May 2025' publication month from the Critical perspective.",
+   "Marked the Moret comparison ('more qualified conclusion') as the summarizer's unverified reading; the course guide only supports the claim that Moret argues safety techniques pose welfare risks.",
+   "Checked course context against the section page: section title, Core priority, course guide quote, sibling links and the Exercise references all match; no changes needed there."
+  ],
+  "concerns": "The article body (Springer, idp login redirect) could not be accessed, so the detailed summary of the six safety tools, the servile AI argument, the analogy-to-animals method and the conclusions remain unverified against the paper. The summary's content there matches a single search snippet's secondary description but has not been checked against the text. Someone with access to the published paper (Philosophical Studies 182(7), 2025) should check sections 'Detailed summary', 'Techniques & methods', and 'Conclusion as reported'."
+ },
+ "i062": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Removed unsupported audience examples (researchers, labs, funders) from the Purpose section and corrected the claim that the paper is written for readers who already take AI welfare seriously; the source describes its audience as people interested in concrete action on welfare.",
+   "Labelled the 'Techniques & methods' evaluative notes (Works best / Fails if / conclusion depends) as the summarizer's analysis.",
+   "Retitled the pros/cons weakness column so it no longer claims all weaknesses are acknowledged by the paper, and marked four rows (convergence weakness, acknowledgement not settling the question, long-horizon philosophy, under-investing if timelines lengthen) as the summarizer's points.",
+   "Changed Greenblatt et al. from 'showing' that Claude Opus is pro AI welfare to a 'cf.' pointer, matching the source's 'Cf. discussion in'."
+  ],
+  "concerns": "Greenblatt et al. (2024) and Harff (2003) are cited secondhand from the source's footnotes and were not checked against those works. The paper's Section 4 implication that long-horizon consciousness research should be deprioritised 'because AI may soon do that work faster' is a reasonable reading of the source but the causal 'because' is the summarizer's inference. The Connections cross-references and sibling filenames all match the spec and the section page."
+ },
+ "i063": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Where this sits: labelled the 'central claim' about one measure serving several goals as my reading, since the page does not state it; labelled the audience as my inference.",
+   "Where this sits and first paragraphs: 'unavoidable' changed to 'currently necessary'; 'show human-like sophistication' changed to 'show signs of' (source says 'showing signs of'); paragraph 3 example reworded to drop near-verbatim phrasing.",
+   "First commitment: added the source's 'going forward' qualifier; removed quoted phrases and paraphrased the source's wording.",
+   "Weight preservation: corrected the claim that the post does not say preserved models would be run again; the post says it keeps the ability to make past models available again, without specifying conditions.",
+   "Interviews/Techniques: labelled 'a deliberate middle position' as the summarizer's framing, not the post's.",
+   "Table and evidence: 'Anthropic's report' changed to 'described in the post' (the Sonnet 3.6 pilot is described in the post itself); 'cannot be avoided' qualified to 'currently'.",
+   "Key concepts: 'precautionary steps' reframed from 'moral status' to the source's 'uncertainty about potential model welfare'; 'bookends' rephrased as the summarizer's gloss on the post's metaphor.",
+   "Connections: Reading 06 description aligned with the course guide (privacy risks from perceptions of AI consciousness); Exercise 2 link to the post changed from 'exactly that commitment' to a close relative (weight preservation rather than not deleting).",
+   "Critical perspective: removed quoted phrases from the source ('at minimum', 'the lifetime of Anthropic as a company', 'providing', 'we do not commit to taking action'); replaced the claim that the post 'acknowledges this only obliquely' with a labelled reading of its limits.",
+   "Quote hygiene across the file: reduced direct quotes from the source and course page to paraphrases (e.g. 'irreversibly closing any doors', 'a small and low-cost first step', 'bookends to model deployment', 'valuable lever', 'concrete means of pursuing their interests', 'precautionary steps in light of our uncertainty...'); removed the one remaining quote that exceeded about 15 words. Two short quoted labels remain (the 'Related content' heading and work titles).",
+   "Source note: the 'Beyond the assigned excerpt' link description now refers to the source's 'Related content' section rather than 'the page'."
+  ],
+  "concerns": "Not verified: the Connections descriptions of Readings 01, 03 and 05 (the summaries of those readings were not opened), so their characterisations are checked only against the course page guides. The Unit 1 to 7 course-outline mappings match the spec outline but are analysis. The 'Where this sits' interpretation that the post is the practical counterpart to Reading 02 is still the summarizer's analysis, though it is framed as such only implicitly. The summary still contains a few short quoted titles and headings, which are not source quotes."
+ },
+ "i064": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Removed an invented 'stated audience' claim; the source names no intended audience (Where/Purpose section).",
+   "Changed 'the authors are explicitly overall unsure' wording to a paraphrase and removed quoted source phrasing across the summary (e.g. 'shockingly human-like', 'native language', 'somewhat counterintuitive', 'plausible but highly uncertain', 'overall unsure') to reduce direct quotation.",
+   "Replaced the two long system-prompt quotations (in the Consequences bullet, the Evidence section, the Techniques entry and Discussion Q4) with paraphrases; the 'I don't know/I can't say' bullet heading is now a descriptive label.",
+   "Paraphrased the quoted 'train it not to claim moral status' alternative and the 'what sort of person' and 'is this output what we want' discussion-question wording.",
+   "Corrected the trade-off table: 'Refusals may be less smooth to deliver' was not in the source; replaced with a limitation the excerpt does state (its predicted effects are untested).",
+   "Corrected the table claim that the masked-shoggoth view 'would undermine the model' to the source's own framing: if an outer agent sits behind the persona, the model is not exhaustive.",
+   "Softened 'the authors say plainly they do not know whether AIs are conscious' to the source's 'plausible but highly uncertain'.",
+   "Labelled the agreement/tension with the Long, Sebo and Sims and Bradley and Saad readings as the summarizer's reading, since the excerpt does not cite them.",
+   "Changed 'the most model-centric reading in the unit' to 'arguably', and 'clearest example' to 'one example', as the source makes no such ranking.",
+   "Verified: section 5.1 title, Core priority, 15 min, guide range, omitted-block brackets, footnotes [2]/[3], sibling file links, and the duplicate Maybe entry all match the spec, page and source."
+  ],
+  "concerns": "The one-line takeaway ('training choices and welfare choices the same kind of decision') and the Connections bullets for Units 1, 4, 6 and 7 are the summarizer's synthesis but are not labelled as such, unlike the Critical perspective section. Short source-defined terms in quotation marks remain ('philosophy for AIs', 'emotionless'); I judged these as terms rather than quotations. The sibling-reading descriptions (glossary, Bradley and Saad, Moret) were checked only against the page's guide text, not the sibling files. The Anthropic affiliation of the authors is taken from the course guide and was not stated in the source excerpt."
+ },
+ "i066": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Added a verification note under the title saying the full article could not be fetched (the Springer link redirects to a login page) and that the Beyond-section and full-article claims are unverified.",
+   "Section 4.1: removed the invented job-application example and the 'only hypothetical risk' claim; corrected the weak-access sentence to match the excerpt, which breaks off mid-sentence.",
+   "Section 4.1: moved the paragraphs on how AI increases access and on AI strong access (semantic-understanding and phenomenal views, Butlin and Chalmers) out of the excerpt summary into the Beyond section, marked unverified.",
+   "Strong access definition (Detailed summary and Key concepts): removed the 'perceives or understands' gloss the excerpt does not contain.",
+   "Pattern 2: 'the authors' general claim' changed to 'empirical work the authors cite suggests', since the excerpt frames it as empirical work.",
+   "Dark patterns: corrected 'three examples' to two; the third point is an overlap remark, not an example.",
+   "Techniques: labelled 'where it fails' remarks as summarizer's assessment; removed the claim that the authors say interactions are hard to predict; reduced the semantic-understanding bullet to a pointer to the Beyond section.",
+   "Pros/cons table: corrected the anthropomorphism qualification (the shrinking effect is about uncanny-valley discomfort); removed the unsupported 'harder to detect'; labelled the deletion-rights qualification as from the full article.",
+   "Key concepts: removed the unsupported 'as the authors define it' for AI agent; marked accessless care and semantic-understanding as full-article material.",
+   "Evidence: removed the unsupported Laban claim about sharing more with AI than humans; labelled Sawalha as beyond the excerpt; removed the unsourced 'wolf in sheep's clothing' framing.",
+   "Connections: removed the claim that the excerpt mentions EU deletion law; reworded the moral-standing and consciousness-theory links as excerpt-unsupported or summarizer's view; labelled the persona-model link as the summarizer's.",
+   "Critical perspective: removed 'Gemini' from the examples (not in excerpt); marked the received/accepted dates as unverified; labelled the semantic-understanding claim as full-article material.",
+   "Purpose: replaced the unverified author list and 'philosophers and bioethicists' with 'Christopher Register et al.'; labelled the intended-readers statement as the summarizer's guess.",
+   "Beyond section intro: flagged that the source copy and the full article could not be checked."
+  ],
+  "concerns": "\"Everything in the 'Beyond the assigned excerpt' section (Box 2, Table 1, Sections 2, 4.1 rest, 4.2, 4.3, 5, 6) and the author list, publication dates and related claims could not be verified: the Springer link redirects to an identity-provider login page, which I did not follow. The Unit 5 Glossary and other sibling descriptions in Connections were not checked against their files. The excerpt-based claims were checked against the full excerpt (read to its end at page 13, mid-sentence) and are now accurate after the fixes.\""
+ },
+ "i076": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Removed the unsupported claim that the precautionary principle's threshold is left open \"on purpose\"; the source only says the terms are not quantified.",
+   "Labelled the 'How the terms fit together' section as the summarizer's synthesis, since it goes beyond the four source entries.",
+   "Labelled the 'Across the course' section as inferred from course outline titles, and softened unverified claims about Units 1, 2, 3, 5, 7 and 8 to 'likely' or 'may'.",
+   "Removed the attribution of specific criticism to Hansson's reading, which was never checked; it now points to that reading as covering the threshold question without claiming its content.",
+   "Softened the claim that the Birch, Dung and Caviola readings push back on settled definitions, which was not checked against their texts."
+  ],
+  "concerns": "Checked against the full source (361 words, four entries) and the section page: the four entry summaries, the quoted fragments, the course guide wording, the priority and time, the sibling links and the exercise references are accurate. Not verified: the unit takeaway that the two uncertainty types are the distinction the unit's frameworks keep returning to, and the Birch 'epistemic/moral' mapping in Connections. Both are plausible readings but are not from the glossary itself."
+ },
+ "i077": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Removed the unsupported claim that the extract names an intended audience (policymakers, scientists, public); replaced with the source's institutional concern.",
+   "Added Birch's 'bridge between science and policy' framing, which was missing from the summary's purpose section.",
+   "Paraphrased the near-verbatim Framework Principles 1, 2 and 3 text, and Proposals 22 and 26, for copyright.",
+   "Replaced the unsupported claim that Birch 'concedes' 'realistic possibility' is a judgement with a labelled summarizer analysis.",
+   "Corrected 'rarely win consensus' to the source's 'invariably fail to achieve consensus support' for radical precautionary principles.",
+   "Removed 'consistency with other decisions' from PARC criterion 4; the source says only 'consistency'.",
+   "Fixed the attribution of the 'basic line of thought' passage and the claim that the source 'admits' Steel's norm may not be good.",
+   "Removed the invented 'don't expect to be examined' claim and corrected the description of the avian pallium cross-reference.",
+   "Relabelled the 'where it fails' lines in Techniques as summarizer analysis, not Birch's own criticisms.",
+   "Labelled the computational functionalism definition as general, not from the extract.",
+   "Corrected the Exercise 2 link: Birch's framework is not on the frameworks-reading list.",
+   "Marked as inference the Unit 1 and Unit 7 course-context claims that the course outline does not support directly."
+  ],
+  "concerns": "\"Two background claims remain unverified against the materials: that Birch is a philosopher working on animal sentience (general knowledge, not in the extract), and the Connections entries for Caviola, Bykvist, Hansson, Long and Shanahan, which were checked against the section page's descriptions only, not their sources. The Unit 8 link remains a speculative inference, not labelled as one.\""
+ },
+ "i078": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Source file is a Cloudflare interstitial and the publisher returns 403, so the abstract-level claims were checked against the FAU CRIS record (WebFetch paraphrase). Astronomical scale, the four criteria and the expected-value plus deliberation hybrid all match; noted this in the source-coverage warning.",
+   "Purpose section: labelled the 'copied at scale' detail and the intended-audience claim as inference, since neither appears in the abstract.",
+   "Detailed summary section 3: labelled the 'in the time available' gloss as inference.",
+   "Role in the argument and Priority: labelled the summarizer's judgements as such, and marked the reason for excluding Section 2 as inference rather than course text.",
+   "Course-guide paraphrase: removed the 'in the course's own words' attribution, since the guide text is restated as a paraphrase.",
+   "Connections: marked the Unit 7 action-guidance link as the summarizer's suggestion rather than something the course page states."
+  ],
+  "concerns": "\"The full article text (Sections 1 and 2) could not be read, so specifics such as the exact wording of the four desiderata, any examples, and Dung's own framing of the hybrid remain unverified beyond the abstract. The Routledge 2025 book and the later Dung work referenced in Critical perspective were not checked beyond a search confirming the book exists.\""
+ },
+ "i080": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Corrected Section 1 page range to pages 1 to 2 and Section 3.1 page range to pages 5 to 6 (checked against the source's page footers).",
+   "Changed 'could be revised only if risks can be safely mitigated' to the source's weaker wording: difficult to overturn while societal impact is significant, and might be reconsidered if risks are safely mitigated.",
+   "Changed 'natural right' to 'innate right' to match the source.",
+   "Removed 'minimax-style' from the regret-management attribution (source says only 'managing regret', Savage) and labelled the risk-prudence 'works best / weakest' sentences as the summarizer's assessment.",
+   "Softened 'respond much less' to the source's 'significantly different response' for the humanoid-robot study.",
+   "Added that the cited Rosenthal-von der Puetten (2013) and Suzuki (2015) titles do not obviously concern neural responses, so the neural claim is weakly supported by its own citations.",
+   "Restored hedging on the chatbot cases: 'claims to have married a chatbot', and the climate-change sacrifice wording from the source; Eliza case now says 'a user'.",
+   "Changed 'only as an afterthought' to 'does not discuss under-attribution at all', since the source never treats under-attribution.",
+   "Fixed the quote 'primarily a philosophical exercise' to the source's 'primarily as a philosophical exercise'.",
+   "Labelled as inference the claims about how this paper, Birch and Dung, and the Claude constitution would treat Anthropic's commitments, and the claim that Birch and Dung centre the false negative (the guide does not say this).",
+   "Labelled as inference the Unit 7 and Unit 8 course-context claims, since the outline gives only titles.",
+   "Labelled the 'anti-precautionary counterpoint' role in 'Where this sits' as the summarizer's reading, and softened the attribution of the Claude constitution entry to the precaution camp.",
+   "Changed 'only real cases' to 'only real-world cases' in the evidence critique."
+  ],
+  "concerns": "\"Discussion question 5 says Birch and Dung argue the stakes for AI may be high; that is not verifiable from this source or the page, and the sibling summaries were not read. The Birch and Dung positions in the Connections and Critical perspective sections come from the course guide's paraphrase only. The summary still contains many short quoted terms (e.g. 'view from nowhere', 'safely mitigated', 'methodological cornerstone unlikely to require revision'). None is longer than about 8 words, but if the copyright limit is read strictly, some could be paraphrased. The summary's 'Section 4 (pages 8 to 9)' and Section 3 page references were checked against the source; I did not verify the sibling readings or the BlueDot guide's paraphrase beyond the section page.\""
+ },
+ "i081": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Connections/Unit 6 Glossary: corrected the glossary's listed definitions to match the glossary summary (precautionary principle, suffering risks, descriptive and moral uncertainty) instead of 'moral status, sentience, precautionary principle'.",
+   "Unit 2 connection: 'explicitly declines to resolve the hard problem' changed to 'sets the hard problem aside' (source says 'even if we set this problem aside').",
+   "Critical perspective 'Dating and change': removed the unsupported claim that the page is dated October 2026; now states the local copy was fetched 8 October 2026.",
+   "Purpose: removed the unsupported claim that the document is addressed to Claude first and the public second; source does not rank audiences.",
+   "Existential frontier: 'Anthropic commits to prepare' changed to 'says it will try to prepare' to match the source's hedged wording.",
+   "Honesty with Claude: replaced the misstatement that testing 'cannot be disclosed in advance' with the source's point that Anthropic is still balancing honesty against testing in artificial scenarios.",
+   "Flaws and mistakes: removed the added claim that a settled Claude pushes back 'more reliably'.",
+   "Emotional expression: 'real harm' softened to 'potential harm' as in the source.",
+   "Table: 'Research is necessary for safety and welfare' corrected to the source's safety and benefit framing; 'Shaping is shaped by' reworded to match the source's commercial-incentive point.",
+   "Beyond the assigned excerpt: added a bullet on the concluding thoughts (reflective equilibrium, current feedback from Claude models) that was missing.",
+   "Techniques section: labelled the 'Where it fails' notes as the summarizer's own analysis.",
+   "Copyright: reduced direct quoted fragments from the source; the remaining source quotes are 'deeply uncertain' and 'a perpetual work in progress'; the 8-word 'what do Claude and Anthropic owe each other' question is now paraphrased; other quoted terms are unquoted or reworded.",
+   "Role in the argument: corrected the claim that the other Unit 6 readings are 'academic or course-written' (Reading 9 is a researcher's essay)."
+  ],
+  "concerns": "Connections to other Unit 6 readings (Birch, Dung, Bykvist, Long, Hansson, Shanahan, Caviola) were checked only against their summary files and the spec's sibling list, not against those sources. The glossary claim was checked against the glossary summary, not the original glossary source. The 'Where it fails' and Critical perspective sections remain the summarizer's analysis, now labelled as such in the techniques section. The detailed summary is paraphrased throughout, though some sentences track the source closely in structure."
+ },
+ "i082": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Line 20: 'critique' changed to 'analyse current action and suggestions' to match the section page's learning outcome.",
+   "Line 46: 'exploit' changed to 'lean on' and 'hold back' to 'hinder' to match the source wording.",
+   "Line 58: 'the course itself does not use' changed to 'most of the course does not use it either', since the source says 'most of this course'.",
+   "Line 86 and Evidence section: removed the claim that Pascal's Mugging is the 'standard' illustration, which the source does not say.",
+   "Line 96: replaced 'most positive results are false' with the source's point that a positive result can still leave disease the less likely outcome when the disease is extremely rare.",
+   "Line 106 and line 116: reworded two near-verbatim sentences from the source (favourite-theory critique, convergence heuristic).",
+   "Techniques section: labelled as summarizer's observations the claims that the EU checklist does not weigh its criteria, that IPCC bands are coarse, that confidence judgements are uncertain in new fields, and that no fixed standard decides which intuitions to revise.",
+   "Techniques section: 'maximin' removed from the 'silent on many cases' claim; the source only says dominance is silent when neither option dominates. Maximin's weaknesses are not discussed in the source.",
+   "Techniques section: expected value 'is dominated by' changed to 'can be dominated by', matching the source's 'can dominate'.",
+   "Pros/cons table: 'externalism gives little guidance' and 'fixed bands are coarse' marked as summarizer's notes, since the primer presents neither as its own point; the convergence row's maximin claim corrected the same way."
+  ],
+  "concerns": "The source was read in full and every section of the summary was checked against it; no major factual errors or omissions were found. The 'Connections' section's cross-unit links (Units 2 to 8) and the Hansson 'critics note' gloss are the summarizer's own linking and are not labelled as such, though they are presented as course-context analysis. The Expected value paragraph is a close paraphrase of the source (one sentence nearly verbatim) but contains no direct quotation, so no copyright fix was needed beyond what is listed."
+ },
+ "i093": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Personhood entry: added the source's 'key part of Western law' framing; replaced invented 'narrower' standing with the source's 'greater range of rights' / 'different standing'.",
+   "Removed the unsupported 'at different times' claim about ships, corporations and rivers.",
+   "Trade-offs section: the glossary does not flag ambiguities; relabelled the three points as the summarizer's observations.",
+   "Exercise 1 claim corrected: Exercise 1 does not use the positive/negative rights terms; the learning outcomes do.",
+   "Private/public rights claim corrected: the page's learning outcome does mention private/public rights.",
+   "Reading 16 description corrected: 03 is the Core excerpt; 16 is the full-paper link with a read-only-section-2 instruction.",
+   "Reading 09 claim softened: it concerns denying personhood to AI, not explicitly the fictional/juridical distinction.",
+   "Purpose paragraph: removed the unsourced claim that the glossary is written for novices and covers the terms 'most likely to cause confusion'.",
+   "Unit 5 title corrected to 'Interactions with AI Safety and Ethics' in the course outline.",
+   "One-line takeaway: the claim that the rest of Unit 7 uses these terms is now stated as likely, not fact.",
+   "Labelled unsourced inferences as the summarizer's: 'two features' analysis, the 'How the terms fit together' section (with a label line), the claim about section readings disagreeing, and the Exercise 2 link to personhood."
+  ],
+  "concerns": "Claims about sibling readings (02 frame and models, 04 safety argument, 05/17 shared legal vocabulary, 08 and 09 content) were checked only against the course page and spec, not the sibling sources. The 'Techniques & methods' section's claim that the longer readings 'argue over these same distinctions' is the summarizer's inference and is not labelled as such. The summarizer's 'Key concepts' gloss of purely legal persons as 'not a human' is an inference from the source's examples."
+ },
+ "i094": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Softened unsupported 'researcher' label for Saad to 'author of the Meditations on Digital Minds Substack newsletter'.",
+   "Labelled the audience and purpose claims (intended audience, 'clean distinction' for policymakers) as the summarizer's inference, since the source does not state them.",
+   "Labelled the 'only reading in 7.1' role claim and the 'In other words' course-role interpretation as the summarizer's reading.",
+   "Expanded the integrative motivation to include the source's framing of the difficulty of creating minds that merit protection but not further rights.",
+   "Corrected the Unit 7 Glossary description: it defines digital minds governance, legal personhood and negative/positive rights, not 'moral patient' or 'digital mind' as cited.",
+   "Corrected 'three legal-status readings' to 'two' (03 and 16 are the two listed).",
+   "Corrected 'Further and Maybe readings (08 to 15)' to 'Further readings', since 08 to 15 are all Further.",
+   "Reworded the dating note so it accurately describes reading 09 as a survey of state measures that limit or deny AI legal status."
+  ],
+  "concerns": "The summary's accuracy on core content (three aims, motivations, actions, challenges, examples, numbers-free conceptual claims) checked out against the full source, with no quotes over the limit and no near-verbatim passages. Not verified: the Unit 7 Glossary, sibling readings and the Exercise 1 matrix were checked only for the claims the summary makes about them (the glossary summary was checked; other siblings were checked by title and guide text only). The 'central tension' sentence in Pros, cons and trade-offs is a reasonable reading of the source but is not labelled as analysis."
+ },
+ "i095": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Where this sits: relabelled the claim that the excerpt is the unit's main legal-history source as my reading, since the page does not say so.",
+   "Purpose: the intended readership is now marked as my inference, not stated by the source.",
+   "Framing: added the authors' stated reason for predicting courts' hesitance (limited empirical evidence).",
+   "2.3: labelled the 'how far from the typical case' framing as my reading.",
+   "2.4: replaced the overstated 'chosen before any facts about AI are considered' with the source's level-of-abstraction point.",
+   "2.6: labelled the 'main analytical gift' judgement and the Salib and Goldstein instrumental classification as my own.",
+   "Pros/cons table: intro now says * marks my inferences; starred the unsourced cells (very low bar, role-by-role cost, autonomy judgement, accountability benefit, easier-to-argue claim).",
+   "Trade-offs: 'treat as a warning' changed to 'document and describe as unfortunate', which tracks the source wording.",
+   "Connections: clarified that Birhane et al. appear as items 5 (Core) and 17 (Maybe), both on Section 8."
+  ],
+  "concerns": "Checked all quotes (all short terms, within copyright limits) and the course-context links against the page and sibling files (sibling 15 authors and sibling 09 legislation claim confirmed). The Techniques section's 'Where it fails' entries are partly the summarizer's own analysis but are not labelled as such; left as-is because the section is a template. The EU AI Act and river-personhood facts in Critical perspective come from the summarizer's own knowledge and are labelled that way, but were not verified against a web source."
+ },
+ "i097": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Private-law rights paragraph: the India (Hindu-Muslim trade) and Israeli stock-portfolio studies were attributed to the Introduction; they appear in Section II.B. The Introduction's own examples (interdependent countries vs hermit states, minority economic rights) are now stated.",
+   "Pros table, 'Other rights': political rights were listed as likely reducing safety; the source makes no strong prediction on political rights (left open). Only privacy, reproduction and self-improvement are listed.",
+   "Pros table, 'Human labour': 'can keep ... valuable indefinitely' overstated the source's hedged 'may persist, possibly indefinitely'; now marked as not guaranteed.",
+   "Evidence: the 20% destruction example was mislabelled 'scorched-earth' (that is a separate point in the source); relabelled as a costs-of-conflict illustration and '40% of the pot' corrected to 40% of total resources.",
+   "Techniques 3: 'without an end-game problem' replaced with the source's point that the cooperative equilibrium requires an indefinite game.",
+   "Techniques 7: the 'weak evidence for AI' critique is now explicitly labelled as the summarizer's view.",
+   "Legal gap: 'Most ... proposals' softened to match the source's 'Largely, scholars have begun to advocate'.",
+   "Critical perspective, enforcement: corrected the claim that the paper does not address enforcement institutions; it acknowledges the problem and answers with small-scale enforceability."
+  ],
+  "concerns": "Checked the full source (all 4,609 lines) against the Introduction, Part I-III, Techniques, Evidence and Appendix claims; the numbers, payoffs (Figures 1-3, 5, 8-10, 12), 1,667-round iteration, 1,500/3,500 equilibrium, 3,999 sensitivity, 12/12 appendix equilibrium, and the lawyer/accountant example all match. Connections and sibling links match the spec. Quotes are limited to short terms and no passage approaches copyright limits. Some Critical Perspective items (e.g., 'Politics', 'Behavioural evidence', 'Timelines') are the summarizer's own analysis and remain labelled as such. The 'Where this sits' framing that this is the course's main safety-first case is course-context interpretation rather than a source claim, left unchanged."
+ },
+ "i098": {
+  "verdict": "fixed-major",
+  "fixes": [
+   "Opening section: the duplicate Maybe entry (item 17) was said to share the same URL as item 5; it links to arXiv, so the claim is corrected.",
+   "Purpose section: removed 'corporations' from the analogies the authors target, since the excerpt does not mention them.",
+   "Purpose section: labelled the 'intended audience' as the summarizer's inference, since the excerpt does not state one.",
+   "8.2: the police robot dog is attributed to 'a New York police department' as in the source, not to the NYPD by name; same change to the Evidence heading.",
+   "8.3: removed the claim that courts recognised rights to record 'police and other public actors'; the source says only rights to record.",
+   "8.7 and Evidence: corrected the shelter incident, where the tarp was tied around the robot and barbecue sauce covered its sensors (the summary had the tarp covering the sensors).",
+   "Connections: rewrote the muddled 'Maybe-listed duplicate' bullet so it identifies file 17 as the duplicate and file 16 as an unrelated Novelli excerpt.",
+   "Connections: labelled the Exercise 1 rating suggestion as the summarizer's, not the authors'.",
+   "Key concepts: labelled 'Over-enforcement of surveillance' as the summarizer's term, not the authors'.",
+   "Discussion Q3: changed 'surveillance drone' to 'advertising robot', matching the source's example.",
+   "Discussion Q7: changed 'Saad and Salib' to 'Salib and Goldstein (item 4)', the reading the excerpt is meant to be compared with.",
+   "Checked the arXiv landing-page claims in 'Beyond the assigned excerpt' against arxiv.org/abs/2404.10072 (three fronts, smokescreen conclusion, 15 April 2024 submission, First Monday listing); they match, so no change was made."
+  ],
+  "concerns": "The 'Techniques & methods explained' section and the Exercise 2 'template' remark are the summarizer's framing but are not labelled as analysis. The Unit cross-links (Units 1 to 6, 8) are inferred from the course outline and were not checked against those units' pages. Several cited works (Mosakas 2021, Nevejans et al. 2018, Cuthbertson 2017, Glik v. Cunniffe) were checked only as cited in the excerpt, not against the originals. The summary quotes roughly six short terms or phrases ('cash out', 'want', 'anthropocentric criteria', 'hermeneutics of suspicion', 'Andromedan alien', 'electronic person'); each is under 15 words, but if the two-quote guideline is strict, these would need paraphrasing."
+ },
+ "i100": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Interface-requirements paragraph: corrected a misreading. The source says the policy does not forbid treating non-conscious systems well, not that they should not be treated badly.",
+   "Eventual sentient systems: 'strict application is probably too much to expect' changed to the source's conditional ('might be too much to expect, if it impedes research').",
+   "Kate Darling example: 'toy robots they have been asked to treat as alive' replaced with the source's 'cute or personified, but simple, toy robots'.",
+   "Closing-point sentence reworded so it no longer reproduces a near-verbatim phrase from the source.",
+   "Evidence: Kate Darling 'even though they know' softened to the source's 'presumably know'; Perceiver IO 'already has' changed to 'arguably already has'.",
+   "Techniques section: added a label that the 'Where it fails' lines are the summarizer's analysis, not the author's view.",
+   "Pros table: 'Protecting human interests' row now uses the source's priority claim instead of an unsourced 'excessive caution' risk; 'Moral clarity' risk marked as the summarizer's point.",
+   "Discussion question 7: added 'expected impacts' to the list of Exercise 1 ratings to match the section page.",
+   "Where this sits: corrected the resource ordering (legislation is followed by further readings, not the end), and the Purpose paragraph's audience claim is marked as an inference."
+  ],
+  "concerns": "Not verified against the live PDF: the summary's 'Critical perspective' claims about a 2023 consciousness-indicators report and the EU AI Act transparency timeline are labelled by the summarizer as recalled from memory and remain unverified (both were left in place, flagged). The 'Priority and unit question' judgement that this is one of the few Core readings proposing an implementable policy is the summarizer's own assessment and was left unlabelled. Connections links and sibling filenames match the spec's siblings list. Copyright: no quote exceeds about three words; the Schwitzgebel text is paraphrased throughout."
+ },
+ "i101": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Where this sits (Relation to the unit question): labelled the 'no rights extended / few banned' characterisation as the summarizer's reading rather than the primer's.",
+   "Purpose of the reading: relabelled the implicit question and the 'quietly shows' point as the summarizer's reading; removed 'on purpose'.",
+   "Key concepts: 'Digital minds' now states the primer does not define the term and marks the gloss as the summarizer's.",
+   "Key concepts: 'Quasi-person' examples corrected to the primer's list (severely brain-damaged people, fetuses, future generations); adults with impaired capacity removed from that list.",
+   "Ubuntu paragraph: dropped the 'strongest form' overstatement ('sometimes proposed'); replaced a near-verbatim question pair with a paraphrase.",
+   "Pros/cons table: Ubuntu weakness no longer attributes 'contested' to the primer; chatbot-therapy ban row no longer lists a strength the primer does not state, and the 'hard to draw' line is marked as summarizer's reading.",
+   "Broader trade-off: the 'slow innovation' point is now marked as the summarizer's addition, not the primer's.",
+   "Deodand: 'argue' softened to 'a reminder', matching the source's 'may be a useful reminder'.",
+   "Mental-health/forms: restored the source's 'theological conviction of human uniqueness'.",
+   "Unit 5 connection: 'could share institutions' softened to 'may overlap' with similar oversight ecosystems, as the source says.",
+   "Section page Exercise 2: removed the incorrect 'from the primer (or find their own)' and used the page's 'using the primer as inspiration' wording.",
+   "Discussion Q1: removed the presupposition that the primer gives reasons for the two protections; Q2: 'proposal' corrected to 'call for an investigation'."
+  ],
+  "concerns": "Not verified against external sources: the Birhane et al. (reading 05) and Saad/Metzinger/Salib/Sunstein positions in the Critical perspective section, and the EU AI Act postponement and Garcia/German-injunction status in the time-sensitivity note, which are the summarizer's own analysis and rely on information outside the primer. All numbers, dates, names and enacted-law claims in the Part 1 and Part 2 summaries matched the source. Quotes are limited to the Ubuntu phrase and 'free itself'."
+ },
+ "i115": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Detailed summary: corrected the claim that every entry has a link; only the organisations carry URLs in the source.",
+   "Where this sits: removed quotation marks around the summarizer's own phrase 'a map of who is doing what', which read as a quote from the course.",
+   "Key concepts: 'Worldview investigations' no longer gives an undocumented definition; it now says only what the page states about the team.",
+   "What the page does not contain: 'the page's own wording' changed to 'paraphrased from the page', since the summary paraphrases rather than quotes.",
+   "Evidence and Limits table: the '2 hours per unit' figure is now attributed to the unit pages' estimated times (about 115-122 min), since the source file does not state it.",
+   "Verified against the source: all counts, names, tags, fellowship/grant/event details, the Caviola/Smith and Sebo attributions, the sibling links and priorities, the section page guide and learning goals, and the unit names in the course outline."
+  ],
+  "concerns": "The 'Coefficient Giving is the renamed Open Philanthropy' point is the summarizer's own belief, labelled as such and not verifiable from the source; it is left as flagged analysis. The 2-hour unit estimate was checked against unit page estimates in the project, not against an external course source."
+ },
+ "i116": {
+  "verdict": "fixed-minor",
+  "fixes": [
+   "Intro: replaced 'one priority ... not necessarily the top one' with the source's actual position (no claim on relative priorities).",
+   "Detailed summary: 'each principle follows the same pattern' overstated; now says most principles follow a loose pattern and only principles 5 to 9 apply the point to digital minds explicitly.",
+   "Principle grouping (1-4, 5-9, 10-12) labelled as the summarizer's own grouping, not the source's.",
+   "Conclusion: 'now plausibly invertebrates' overstated; now says invertebrates are under serious consideration, matching the source's 'reckoning with the possibility'.",
+   "Techniques section: added label that 'Where it fails' notes are summarizer analysis.",
+   "Pros/cons table: Notes column header now marked as summarizer's analysis.",
+   "Trade-offs: removed precautionary-vs-expected-value from 'named directly' list (source does not call it a trade-off); now labelled as summarizer's inference.",
+   "Priority paragraph and reading 10 connection: the sibling copy's guide omits the 'stop at the conclusion' note; corrected.",
+   "Unit 5 connection: principles 10 and 11 corrected to principles 11 and 12 (principle 10 does not discuss the safety tension)."
+  ],
+  "concerns": "\"Sibling-reading content claims in Connections (e.g. what the governance, AI Cognition, and debate-week readings cover) were checked only against the section page, not against those sibling summaries or sources. Unit-by-unit connections are inferred and labelled as such. Critical perspective items about post-2023 developments are from memory and flagged as needing checking. Quotes in the summary are short terms (e.g. 'current, tentative', 'reject anthropomorphism', 'common denominator'), so copyright limits appear to be met, but this was not a formal word count.\""
+ }
+}

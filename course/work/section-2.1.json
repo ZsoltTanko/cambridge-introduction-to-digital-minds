@@ -1,0 +1,156 @@
+{
+ "id": "2.1",
+ "title": "Theories of Consciousness",
+ "unit": 2,
+ "unitTitle": "Theories of Consciousness",
+ "dir": "units/2-theories-of-consciousness/2.1-theories-of-consciousness",
+ "url": "https://bluedot.org/courses/digital-minds/2/1",
+ "estimatedTime": 122,
+ "itemIds": [
+  "i014",
+  "i015",
+  "i016",
+  "i017",
+  "i018",
+  "i019",
+  "i020",
+  "i021",
+  "i022",
+  "i023",
+  "i024",
+  "i025",
+  "i026",
+  "i027",
+  "i028",
+  "i029",
+  "i030",
+  "i031"
+ ],
+ "numExercises": 2,
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "pagePath": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/page.md",
+ "readings": [
+  {
+   "id": "i014",
+   "title": "Unit 2 Glossary",
+   "priority": "Core",
+   "timeMins": 3,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/01-unit-2-glossary.md",
+   "url": "https://docs.google.com/document/d/1mDEV4OALfxcp9GZY5bRJKzUyeVrBit8J7vWNxuqdo2U/edit?usp=sharing"
+  },
+  {
+   "id": "i015",
+   "title": "Digital Minds I: Issues in the Philosophy of Mind and Cognitive Science",
+   "priority": "Core",
+   "timeMins": 14,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md",
+   "url": "https://philpapers.org/archive/SAADMI-2.pdf"
+  },
+  {
+   "id": "i016",
+   "title": "Is AI Conscious? A primer on the myths and confusion driving the debate",
+   "priority": "Core",
+   "timeMins": 35,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/03-is-ai-conscious-a-primer-on-the-myths-and-confusion-driving.md",
+   "url": "https://philarchive.org/archive/SCHIAC-22"
+  },
+  {
+   "id": "i017",
+   "title": "The Mythology of Conscious AI - Consciousness and Computation Section",
+   "priority": "Core",
+   "timeMins": 27,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md",
+   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/#:~:text=Consciousness%20%26%20Computation"
+  },
+  {
+   "id": "i018",
+   "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+   "priority": "Core",
+   "timeMins": 8,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md",
+   "url": "https://arxiv.org/pdf/2308.08708"
+  },
+  {
+   "id": "i019",
+   "title": "Multiple Realizability and the Spirit of Functionalism",
+   "priority": "Further",
+   "timeMins": 56,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/06-multiple-realizability-and-the-spirit-of-functionalism.md",
+   "url": "https://www.dropbox.com/scl/fi/3r3lhvbc217qccx2powa1/Cao-functionalism-without-multiple-realizability.pdf?rlkey=iuxh1iszrb72zr3rfk1io6aav&e=1&dl=0"
+  },
+  {
+   "id": "i020",
+   "title": "Could a Large Language Model be Conscious?",
+   "priority": "Further",
+   "timeMins": 45,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/07-could-a-large-language-model-be-conscious.md",
+   "url": "https://arxiv.org/pdf/2303.07103"
+  },
+  {
+   "id": "i021",
+   "title": "Absent Qualia, Fading Qualia, Dancing Qualia",
+   "priority": "Further",
+   "timeMins": 75,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/08-absent-qualia-fading-qualia-dancing-qualia.md",
+   "url": "https://consc.net/papers/qualia.html"
+  },
+  {
+   "id": "i022",
+   "title": "Phenomenal Consciousness, Defined and Defended as Innocently as I Can Manage",
+   "priority": "Further",
+   "timeMins": 37,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md",
+   "url": "https://faculty.ucr.edu/~eschwitz/SchwitzAbs/DefiningConsciousness.htm"
+  },
+  {
+   "id": "i023",
+   "title": "Theories of Consciousness",
+   "priority": "Further",
+   "timeMins": 90,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/10-theories-of-consciousness.md",
+   "url": "https://www.nature.com/articles/s41583-022-00587-4"
+  },
+  {
+   "id": "i024",
+   "title": "Functionalism, Integrity and Digital Consciousness",
+   "priority": "Further",
+   "timeMins": 43,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/11-functionalism-integrity-and-digital-consciousness.md",
+   "url": "https://philarchive.org/rec/SHIFIA-2"
+  },
+  {
+   "id": "i025",
+   "title": "Mental (state) breakdown: Consciousness in AI explained (part 1)",
+   "priority": "Further",
+   "timeMins": 15,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md",
+   "url": "https://larissaschiavo.substack.com/p/consciousness-in-ai-explained-global"
+  },
+  {
+   "id": "i026",
+   "title": "Landscape of Consciousness Website",
+   "priority": "Further",
+   "timeMins": null,
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/13-landscape-of-consciousness-website.md",
+   "url": "https://loc.closertotruth.com/"
+  }
+ ],
+ "references": [
+  {
+   "id": "i027",
+   "kind": "guide-link",
+   "anchor": "Link in the guide for 'Landscape of Consciousness Website'",
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/references/closertotruth-com-news-what-350-different-theories-of-c.md",
+   "url": "https://closertotruth.com/news/what-350-different-theories-of-consciousness-reveal-about-reality"
+  },
+  {
+   "id": "i031",
+   "kind": "exercise-link",
+   "anchor": "Link in exercise 'Exercise 2'",
+   "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/references/cf-debate-com.md",
+   "url": "http://cf-debate.com"
+  }
+ ],
+ "siblingSectionPages": []
+}

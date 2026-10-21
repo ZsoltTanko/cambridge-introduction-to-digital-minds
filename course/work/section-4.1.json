@@ -1,0 +1,145 @@
+{
+ "id": "4.1",
+ "title": "Perceptions of Consciousness",
+ "unit": 4,
+ "unitTitle": "Perceptions of Consciousness",
+ "dir": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness",
+ "url": "https://bluedot.org/courses/digital-minds/4/1",
+ "estimatedTime": 115,
+ "itemIds": [
+  "i046",
+  "i047",
+  "i048",
+  "i049",
+  "i050",
+  "i051",
+  "i052",
+  "i053",
+  "i054",
+  "i055",
+  "i056",
+  "i057",
+  "i058",
+  "i059"
+ ],
+ "numExercises": 2,
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "pagePath": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/page.md",
+ "readings": [
+  {
+   "id": "i046",
+   "title": "Unit 4 Glossary",
+   "priority": "Core",
+   "timeMins": 3,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/01-unit-4-glossary.md",
+   "url": "https://docs.google.com/document/d/1CP0eoyQOqYzNwJkz7oJLQWgmMWkmFsTR_B8vsjmKZ_s/edit?usp=sharing"
+  },
+  {
+   "id": "i047",
+   "title": "Seemingly Conscious Chatbots and their Impacts on Users",
+   "priority": "Core",
+   "timeMins": 9,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/02-seemingly-conscious-chatbots-and-their-impacts-on-users.md",
+   "url": "https://docs.google.com/document/d/1DsfHuiQyIojj_gHBajGO2-AMs4J0s8hdw9KPwa6ralw/edit?usp=sharing"
+  },
+  {
+   "id": "i048",
+   "title": "We mustn't let AI hack our empathy circuits",
+   "priority": "Core",
+   "timeMins": 8,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/03-we-mustnt-let-ai-hack-our-empathy-circuits.md",
+   "url": "https://mustafa-suleyman.ai/we-mustnt-let-ai-hack-our-empathy-circuits"
+  },
+  {
+   "id": "i049",
+   "title": "Conscious Artificial Intelligence and Biological Naturalism",
+   "priority": "Core",
+   "timeMins": 8,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/04-conscious-artificial-intelligence-and-biological-naturalism.md",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C9912A5BE9D806012E3C8B3AF612E39A/S0140525X25000032a.pdf/conscious-artificial-intelligence-and-biological-naturalism.pdf"
+  },
+  {
+   "id": "i050",
+   "title": "Ascribing consciousness to artificial intelligence: human-AI interaction and its carry-over effects on human-human interaction",
+   "priority": "Core",
+   "timeMins": 24,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/05-ascribing-consciousness-to-artificial-intelligence-human-ai.md",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1322781/full#sec12:~:text=behavior%20is%20practiced.-,Discussion,-The%20moral%20issue"
+  },
+  {
+   "id": "i051",
+   "title": "AI Consciousness will Divide Society",
+   "priority": "Core",
+   "timeMins": 43,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/06-ai-consciousness-will-divide-society.md",
+   "url": "https://osf.io/preprints/psyarxiv/sntva_v2"
+  },
+  {
+   "id": "i052",
+   "title": "Seemingly Conscious AI Risks",
+   "priority": "Further",
+   "timeMins": 90,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/07-seemingly-conscious-ai-risks.md",
+   "url": "https://download.ssrn.com/2026/5/1/6588659.pdf"
+  },
+  {
+   "id": "i053",
+   "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs",
+   "priority": "Further",
+   "timeMins": 64,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/08-characterizing-delusional-spirals-through-human-llm-chat-log.md",
+   "url": "https://arxiv.org/pdf/2603.16567"
+  },
+  {
+   "id": "i054",
+   "title": "Chatbots as Social Companions: How People Perceive Consciousness, Human Likeness, and Social Health Benefits in Machines",
+   "priority": "Further",
+   "timeMins": 48,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/09-chatbots-as-social-companions-how-people-perceive-consciousn.md",
+   "url": "https://arxiv.org/pdf/2311.10599"
+  },
+  {
+   "id": "i055",
+   "title": "Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally",
+   "priority": "Further",
+   "timeMins": 72,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/10-humanlike-ai-design-increases-anthropomorphism-but-yields-di.md",
+   "url": "https://arxiv.org/pdf/2512.17898"
+  },
+  {
+   "id": "i056",
+   "title": "The AI Bambi Effect",
+   "priority": "Further",
+   "timeMins": 10,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/11-the-ai-bambi-effect.md",
+   "url": "https://www.rosiecampbell.xyz/p/the-ai-bambi-effect"
+  },
+  {
+   "id": "i057",
+   "title": "What will society think about AI consciousness? Lessons from the animal case",
+   "priority": "Further",
+   "timeMins": 16,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/12-what-will-society-think-about-ai-consciousness-lessons-from.md",
+   "url": "https://www.sciencedirect.com/science/article/pii/S1364661325001470"
+  },
+  {
+   "id": "i058",
+   "title": "How it feels to have your mind hacked by an AI",
+   "priority": "Further",
+   "timeMins": 38,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/13-how-it-feels-to-have-your-mind-hacked-by-an-ai.md",
+   "url": "https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai"
+  },
+  {
+   "id": "i059",
+   "title": "Folk Psychological Attributions of Consciousness to Large Language Models",
+   "priority": "Further",
+   "timeMins": 24,
+   "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/14-folk-psychological-attributions-of-consciousness-to-large-la.md",
+   "url": "https://academic.oup.com/nc/article/2024/1/niae013/7644104"
+  }
+ ],
+ "references": [],
+ "siblingSectionPages": []
+}

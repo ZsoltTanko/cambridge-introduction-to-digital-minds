@@ -1,0 +1,96 @@
+{
+ "id": "i047",
+ "kind": "resource",
+ "section": "4.1",
+ "sectionTitle": "Perceptions of Consciousness",
+ "unit": 4,
+ "unitTitle": "Perceptions of Consciousness",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/4/1",
+ "pagePath": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/page.md",
+ "url": "https://docs.google.com/document/d/1DsfHuiQyIojj_gHBajGO2-AMs4J0s8hdw9KPwa6ralw/edit?usp=sharing",
+ "summaryFile": "units/4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/02-seemingly-conscious-chatbots-and-their-impacts-on-users.md",
+ "sourceFile": "sources/seemingly-conscious-chatbots-and-their-impacts-on__10ba729b.md",
+ "sourceRel": "../../../../sources/seemingly-conscious-chatbots-and-their-impacts-on__10ba729b.md",
+ "sourceStatus": "ok",
+ "sourceWords": 1225,
+ "sourceMethod": "text",
+ "formatHint": "course-team primer (written by the course team)",
+ "title": "Seemingly Conscious Chatbots and their Impacts on Users",
+ "authors": "CDM Course Team",
+ "year": 2026,
+ "priority": "Core",
+ "timeMins": 9,
+ "guide": "_Summarises recent empirical research on the impacts of perceptions of consciousness in AI models on individual users._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Unit 4 Glossary",
+   "path": "01-unit-4-glossary.md",
+   "priority": "Core"
+  },
+  {
+   "title": "We mustn't let AI hack our empathy circuits",
+   "path": "03-we-mustnt-let-ai-hack-our-empathy-circuits.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Conscious Artificial Intelligence and Biological Naturalism",
+   "path": "04-conscious-artificial-intelligence-and-biological-naturalism.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Ascribing consciousness to artificial intelligence: human-AI interaction and its carry-over effects on human-human interaction",
+   "path": "05-ascribing-consciousness-to-artificial-intelligence-human-ai.md",
+   "priority": "Core"
+  },
+  {
+   "title": "AI Consciousness will Divide Society",
+   "path": "06-ai-consciousness-will-divide-society.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Seemingly Conscious AI Risks",
+   "path": "07-seemingly-conscious-ai-risks.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Characterizing Delusional Spirals through Human-LLM Chat Logs",
+   "path": "08-characterizing-delusional-spirals-through-human-llm-chat-log.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Chatbots as Social Companions: How People Perceive Consciousness, Human Likeness, and Social Health Benefits in Machines",
+   "path": "09-chatbots-as-social-companions-how-people-perceive-consciousn.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally",
+   "path": "10-humanlike-ai-design-increases-anthropomorphism-but-yields-di.md",
+   "priority": "Further"
+  },
+  {
+   "title": "The AI Bambi Effect",
+   "path": "11-the-ai-bambi-effect.md",
+   "priority": "Further"
+  },
+  {
+   "title": "What will society think about AI consciousness? Lessons from the animal case",
+   "path": "12-what-will-society-think-about-ai-consciousness-lessons-from.md",
+   "priority": "Further"
+  },
+  {
+   "title": "How it feels to have your mind hacked by an AI",
+   "path": "13-how-it-feels-to-have-your-mind-hacked-by-an-ai.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Folk Psychological Attributions of Consciousness to Large Language Models",
+   "path": "14-folk-psychological-attributions-of-consciousness-to-large-la.md",
+   "priority": "Further"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

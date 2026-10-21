@@ -1,0 +1,91 @@
+{
+ "id": "i069",
+ "kind": "resource",
+ "section": "5.1",
+ "sectionTitle": "Interactions with AI Safety and Ethics",
+ "unit": 5,
+ "unitTitle": "Interactions with AI Safety and Ethics",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/5/1",
+ "pagePath": "units/5-interactions-with-ai-safety-and-ethics/5.1-interactions-with-ai-safety-and-ethics/page.md",
+ "url": "https://philpapers.org/archive/SCHDAW-10.pdf",
+ "summaryFile": "units/5-interactions-with-ai-safety-and-ethics/5.1-interactions-with-ai-safety-and-ethics/readings/08-designing-ai-with-rights-consciousness-self-respect-and-free.md",
+ "sourceFile": "sources/designing-ai-with-rights-consciousness-self-respec__4c55966b.md",
+ "sourceRel": "../../../../sources/designing-ai-with-rights-consciousness-self-respec__4c55966b.md",
+ "sourceStatus": "ok",
+ "sourceWords": 8802,
+ "sourceMethod": "alternate copy",
+ "formatHint": "article / blog post / web page",
+ "title": "Designing AI with Rights, Consciousness, Self-Respect, and Freedom",
+ "authors": "Eric Schwitzgebel and Mara Garza",
+ "year": 2023,
+ "priority": "Further",
+ "timeMins": null,
+ "guide": "_Makes the case for self-respect and freedom in AI, should it be conscious._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Unit 5 Glossary",
+   "path": "01-unit-5-glossary.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Is there a tension between AI Safety and Welfare?",
+   "path": "02-is-there-a-tension-between-ai-safety-and-welfare.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Key strategic considerations for taking action on AI welfare",
+   "path": "03-key-strategic-considerations-for-taking-action-on-ai-welfare.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Commitment on Model Deprecation and Preservation",
+   "path": "04-commitment-on-model-deprecation-and-preservation.md",
+   "priority": "Core"
+  },
+  {
+   "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans [Excerpts]",
+   "path": "05-the-persona-selection-model-why-ai-assistants-might-behave-l.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Privacy and AI Relationships (excerpt)",
+   "path": "06-privacy-and-ai-relationships-excerpt.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Futures with Digital Minds: Interactions with AI Safety section",
+   "path": "07-futures-with-digital-minds-interactions-with-ai-safety-secti.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI Welfare Risks",
+   "path": "09-ai-welfare-risks.md",
+   "priority": "Further"
+  },
+  {
+   "title": "The Case for Satiating Cheaply Satisfied AI Preferences",
+   "path": "10-the-case-for-satiating-cheaply-satisfied-ai-preferences.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI alignment vs AI ethical treatment: Ten challenges",
+   "path": "11-ai-alignment-vs-ai-ethical-treatment-ten-challenges.md",
+   "priority": "Further"
+  },
+  {
+   "title": "2026 Report: Extended Summary for Policymakers",
+   "path": "12-2026-report-extended-summary-for-policymakers.md",
+   "priority": "Further"
+  },
+  {
+   "title": "The Persona Selection Model: Why AI Assistants might Behave like Humans",
+   "path": "13-the-persona-selection-model-why-ai-assistants-might-behave-l.md",
+   "priority": "Maybe"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

@@ -1,0 +1,137 @@
+{
+ "id": "3.1",
+ "title": "Evaluation of Consciousness and Other Mental States",
+ "unit": 3,
+ "unitTitle": "Evaluating mental states",
+ "dir": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states",
+ "url": "https://bluedot.org/courses/digital-minds/3/1",
+ "estimatedTime": 119,
+ "itemIds": [
+  "i032",
+  "i033",
+  "i034",
+  "i035",
+  "i036",
+  "i037",
+  "i038",
+  "i039",
+  "i040",
+  "i041",
+  "i042",
+  "i043",
+  "i044",
+  "i045"
+ ],
+ "numExercises": 2,
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "pagePath": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/page.md",
+ "readings": [
+  {
+   "id": "i032",
+   "title": "Unit 3 Glossary",
+   "priority": "Core",
+   "timeMins": 3,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/01-unit-3-glossary.md",
+   "url": "https://docs.google.com/document/d/1TmGZOVmkr35xjOoU8VkDtxBp37JNvbZ2TX66fFXXzTk/edit?usp=sharing"
+  },
+  {
+   "id": "i033",
+   "title": "Key concepts and current views on AI Welfare",
+   "priority": "Core",
+   "timeMins": 30,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/02-key-concepts-and-current-views-on-ai-welfare.md",
+   "url": "https://eleosai.org/papers/20250127_Key_Concepts_and_Current_Views_on_AI_Welfare.pdf"
+  },
+  {
+   "id": "i034",
+   "title": "Claude Mythos Preview System Card",
+   "priority": "Core",
+   "timeMins": 16,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/03-claude-mythos-preview-system-card.md",
+   "url": "https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf"
+  },
+  {
+   "id": "i035",
+   "title": "What We Talk to When We Talk to Language Models",
+   "priority": "Core",
+   "timeMins": 45,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/04-what-we-talk-to-when-we-talk-to-language-models.md",
+   "url": "https://philpapers.org/archive/CHAWWT-8.pdf"
+  },
+  {
+   "id": "i036",
+   "title": "Evaluating consciousness, sentience and other mental states: primer",
+   "priority": "Further",
+   "timeMins": 46,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/05-evaluating-consciousness-sentience-and-other-mental-states-p.md",
+   "url": "https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0"
+  },
+  {
+   "id": "i037",
+   "title": "AI Welfare is Bullshit",
+   "priority": "Further",
+   "timeMins": 72,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/06-ai-welfare-is-bullshit.md",
+   "url": "https://philarchive.org/archive/XIAAWI"
+  },
+  {
+   "id": "i038",
+   "title": "Signs of Introspection in Large Language Models",
+   "priority": "Further",
+   "timeMins": 18,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/07-signs-of-introspection-in-large-language-models.md",
+   "url": "https://www.anthropic.com/research/introspection"
+  },
+  {
+   "id": "i039",
+   "title": "Agnosticism about Artificial Consciousness",
+   "priority": "Further",
+   "timeMins": 37,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/08-agnosticism-about-artificial-consciousness.md",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/mila.70010"
+  },
+  {
+   "id": "i040",
+   "title": "The Most Bizarre Findings from 5 AI Welfare Experiments",
+   "priority": "Further",
+   "timeMins": 254,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/09-the-most-bizarre-findings-from-5-ai-welfare-experiments.md",
+   "url": "https://80000hours.org/podcast/episodes/kyle-fish-ai-welfare-anthropic"
+  },
+  {
+   "id": "i041",
+   "title": "Consciousness is not the Key to Moral Standing",
+   "priority": "Further",
+   "timeMins": 91,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/10-consciousness-is-not-the-key-to-moral-standing.md",
+   "url": "https://philarchive.org/rec/PAPCIN"
+  },
+  {
+   "id": "i042",
+   "title": "Video: Evaluating AI Welfare and Moral Status",
+   "priority": "Further",
+   "timeMins": 221,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/11-video-evaluating-ai-welfare-and-moral-status.md",
+   "url": "https://www.youtube.com/watch?v=tX42dHN0wLo"
+  },
+  {
+   "id": "i043",
+   "title": "What Does ChatGPT Want? An Interpretationist Guide",
+   "priority": "Further",
+   "timeMins": 93,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/12-what-does-chatgpt-want-an-interpretationist-guide.md",
+   "url": "https://philpapers.org/archive/GOLWDC-2.pdf"
+  },
+  {
+   "id": "i044",
+   "title": "Emotion concepts and their function in a large language model",
+   "priority": "Further",
+   "timeMins": null,
+   "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/readings/13-emotion-concepts-and-their-function-in-a-large-language-mode.md",
+   "url": "https://www.anthropic.com/research/emotion-concepts-function"
+  }
+ ],
+ "references": [],
+ "siblingSectionPages": []
+}

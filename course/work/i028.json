@@ -1,0 +1,37 @@
+{
+ "id": "i028",
+ "kind": "exercise-link",
+ "section": "2.1",
+ "sectionTitle": "Theories of Consciousness",
+ "unit": 2,
+ "unitTitle": "Theories of Consciousness",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/2/1",
+ "pagePath": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/page.md",
+ "url": "https://arxiv.org/pdf/2308.08708",
+ "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/references/arxiv-org-pdf-2308-08708.md",
+ "sourceFile": "sources/consciousness-in-artificial-intelligence-insights__7c8acaca.md",
+ "sourceRel": "../../../../sources/consciousness-in-artificial-intelligence-insights__7c8acaca.md",
+ "sourceStatus": "ok",
+ "sourceWords": 41467,
+ "sourceMethod": "pdf",
+ "formatHint": "paper / report (PDF)",
+ "anchor": "Link in exercise 'Exercise 1'",
+ "context": "Choose one leading theory of consciousness - or condition  related to it. Spend 20 minutes learning about it and noting down the below: \n- what the theory or condition claims\n- any evidence for or against it\n- how it may apply to digital minds\n\nWe will discuss this in the session - you don't need to become an expert, just be ready to note the basics about your chosen theory or condition.\n\nIn your group's Slack channel, please note down which theory or idea you are looking at so we get a wide range of theories. \n\nSome suggestions for which to choose and where to look:\n1. Global Workspace Theory: Butlin et al., '[Consciousness in Artificial Intelligence](https://arxiv.org/pdf/2308.08708)' p.22, or Larissa Schiavo's [blogpost](https://larissaschiavo.substack.com/p/consciousness-in-ai-explained-global)\n2. Biological Naturalism: Section 4 in Anil Seth’s [Conscious Artificial Intelligence and Biological Naturalism'](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C9912A5BE9D806012E3C8B3AF612E39A/S0140525X25000032a.pdf/conscious-artificial-intelligence-and-biological-naturalism.pdf)\n3. Recurrent Processing: Butlin et al., '[Consciousness in Artificial Intelligence](https://arxiv.org/pdf/2308.08708)', p.19\n4. Computational Higher Order Theories: Butlin et al., '[Consciousness in Artificial Intelligence](https://arxiv.org/pdf/2308.08708)', p.29\n5. Attention Schema Theory: Butlin et al., '[Consciousness in Artificial Intelligence](https://arxiv.org/pdf/2308.08708)', p.33\n6. Agency and Embodiment: Butlin et al., '[Consciousness in Artificial Intelligence](https://arxiv.org/pdf/2308.08708)', p.37",
+ "alsoReading": [
+  {
+   "section": "2.1",
+   "path": "../readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md",
+   "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness"
+  }
+ ],
+ "otherOccurrences": [
+  {
+   "section": "2.1",
+   "kind": "resource",
+   "path": "../readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md"
+  }
+ ],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

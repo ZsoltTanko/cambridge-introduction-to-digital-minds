@@ -1,0 +1,56 @@
+{
+ "number": 5,
+ "title": "Interactions with AI Safety and Ethics",
+ "dir": "units/5-interactions-with-ai-safety-and-ethics",
+ "sectionIds": [
+  "5.1"
+ ],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "sections": [
+  {
+   "id": "5.1",
+   "title": "Interactions with AI Safety and Ethics",
+   "page": "units/5-interactions-with-ai-safety-and-ethics/5.1-interactions-with-ai-safety-and-ethics/page.md",
+   "synthesis": "units/5-interactions-with-ai-safety-and-ethics/5.1-interactions-with-ai-safety-and-ethics/synthesis.md",
+   "estimatedTime": 122
+  }
+ ],
+ "otherUnits": [
+  {
+   "number": 1,
+   "title": "Introduction",
+   "dir": "units/1-introduction"
+  },
+  {
+   "number": 2,
+   "title": "Theories of Consciousness",
+   "dir": "units/2-theories-of-consciousness"
+  },
+  {
+   "number": 3,
+   "title": "Evaluating mental states",
+   "dir": "units/3-evaluating-mental-states"
+  },
+  {
+   "number": 4,
+   "title": "Perceptions of Consciousness",
+   "dir": "units/4-perceptions-of-consciousness"
+  },
+  {
+   "number": 6,
+   "title": "Approaches under Uncertainty",
+   "dir": "units/6-approaches-under-uncertainty"
+  },
+  {
+   "number": 7,
+   "title": "Digital Minds Governance",
+   "dir": "units/7-digital-minds-governance"
+  },
+  {
+   "number": 8,
+   "title": "Reflections and Next Steps",
+   "dir": "units/8-reflections-and-next-steps"
+  }
+ ]
+}

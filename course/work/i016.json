@@ -1,0 +1,91 @@
+{
+ "id": "i016",
+ "kind": "resource",
+ "section": "2.1",
+ "sectionTitle": "Theories of Consciousness",
+ "unit": 2,
+ "unitTitle": "Theories of Consciousness",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/2/1",
+ "pagePath": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/page.md",
+ "url": "https://philarchive.org/archive/SCHIAC-22",
+ "summaryFile": "units/2-theories-of-consciousness/2.1-theories-of-consciousness/readings/03-is-ai-conscious-a-primer-on-the-myths-and-confusion-driving.md",
+ "sourceFile": "sources/is-ai-conscious-a-primer-on-the-myths-and-confusio__eb49ff78.md",
+ "sourceRel": "../../../../sources/is-ai-conscious-a-primer-on-the-myths-and-confusio__eb49ff78.md",
+ "sourceStatus": "unavailable",
+ "sourceWords": 8,
+ "sourceMethod": "html",
+ "formatHint": "article / blog post / web page",
+ "title": "Is AI Conscious? A primer on the myths and confusion driving the debate",
+ "authors": "Susan Schneider et al",
+ "year": 2025,
+ "priority": "Core",
+ "timeMins": 35,
+ "guide": "**Read only** from Section III, 'Theories of Consciousness' to the final Summary (pages 14-22).\n\n_Explains some core concepts in philosophy of mind, and the potential application of a range of theories (including non-physicalist theories) to AI._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Unit 2 Glossary",
+   "path": "01-unit-2-glossary.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Digital Minds I: Issues in the Philosophy of Mind and Cognitive Science",
+   "path": "02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md",
+   "priority": "Core"
+  },
+  {
+   "title": "The Mythology of Conscious AI - Consciousness and Computation Section",
+   "path": "04-the-mythology-of-conscious-ai-consciousness-and-computation.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+   "path": "05-consciousness-in-artificial-intelligence-insights-from-the-s.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Multiple Realizability and the Spirit of Functionalism",
+   "path": "06-multiple-realizability-and-the-spirit-of-functionalism.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Could a Large Language Model be Conscious?",
+   "path": "07-could-a-large-language-model-be-conscious.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Absent Qualia, Fading Qualia, Dancing Qualia",
+   "path": "08-absent-qualia-fading-qualia-dancing-qualia.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Phenomenal Consciousness, Defined and Defended as Innocently as I Can Manage",
+   "path": "09-phenomenal-consciousness-defined-and-defended-as-innocently.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Theories of Consciousness",
+   "path": "10-theories-of-consciousness.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Functionalism, Integrity and Digital Consciousness",
+   "path": "11-functionalism-integrity-and-digital-consciousness.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Mental (state) breakdown: Consciousness in AI explained (part 1)",
+   "path": "12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Landscape of Consciousness Website",
+   "path": "13-landscape-of-consciousness-website.md",
+   "priority": "Further"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

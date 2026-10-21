@@ -1,0 +1,37 @@
+{
+ "id": "i092",
+ "kind": "exercise-link",
+ "section": "6.1",
+ "sectionTitle": "Approaches under Uncertainty",
+ "unit": 6,
+ "unitTitle": "Approaches under Uncertainty",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/6/1",
+ "pagePath": "units/6-approaches-under-uncertainty/6.1-approaches-under-uncertainty/page.md",
+ "url": "https://docs.google.com/document/d/1T_9iltxtGx5tN8QX8oRChfHT4UW6lCJMcNH5AqMiIX8/edit?tab=t.0#heading=h.cuighsf9mc3l",
+ "summaryFile": "units/6-approaches-under-uncertainty/6.1-approaches-under-uncertainty/references/docs-google-com-document-d-1t-9iltxtgx5tn8qx8orchfht4uw.md",
+ "sourceFile": "sources/frameworks-for-decision-making-under-uncertainty__e03d7538.md",
+ "sourceRel": "../../../../sources/frameworks-for-decision-making-under-uncertainty__e03d7538.md",
+ "sourceStatus": "ok",
+ "sourceWords": 2167,
+ "sourceMethod": "text",
+ "formatHint": "article / blog post / web page",
+ "anchor": "Link in exercise 'Exercise 2'",
+ "context": "Consider **one** of the frameworks noted in the [reading](https://docs.google.com/document/d/1T_9iltxtGx5tN8QX8oRChfHT4UW6lCJMcNH5AqMiIX8/edit?tab=t.0#heading=h.cuighsf9mc3l):\n- The precautionary principle, as detailed by the EU\n- Communication of uncertainty, as advocated by the IPCC\n- Bayesian reasoning\n- Expected value and utility\n- Approaches to moral uncertainty\n\nSpend **6 minutes** noting down how it may - or may not -apply to digital minds questions. \nWhat - if anything - might this framework help clarify? \nWhat are its advantages or disadvantages?",
+ "alsoReading": [
+  {
+   "section": "6.1",
+   "path": "../readings/06-frameworks-for-decision-making-under-uncertainty.md",
+   "title": "Frameworks for decision making under uncertainty"
+  }
+ ],
+ "otherOccurrences": [
+  {
+   "section": "6.1",
+   "kind": "resource",
+   "path": "../readings/06-frameworks-for-decision-making-under-uncertainty.md"
+  }
+ ],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

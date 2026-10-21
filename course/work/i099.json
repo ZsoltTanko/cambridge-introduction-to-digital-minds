@@ -1,0 +1,37 @@
+{
+ "id": "i099",
+ "kind": "guide-link",
+ "section": "7.1",
+ "sectionTitle": "Digital Minds Governance",
+ "unit": 7,
+ "unitTitle": "Digital Minds Governance",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/7/1",
+ "pagePath": "units/7-digital-minds-governance/7.1-digital-minds-governance/page.md",
+ "url": "https://arxiv.org/pdf/2404.10072",
+ "summaryFile": "units/7-digital-minds-governance/7.1-digital-minds-governance/references/arxiv-org-pdf-2404-10072.md",
+ "sourceFile": "sources/link-in-the-guide-for-debunking-robot-rights-metap__43c2294b.md",
+ "sourceRel": "../../../../sources/link-in-the-guide-for-debunking-robot-rights-metap__43c2294b.md",
+ "sourceStatus": "ok",
+ "sourceWords": 16353,
+ "sourceMethod": "pdf",
+ "formatHint": "paper / report (PDF)",
+ "anchor": "Link in the guide for 'Debunking Robot Rights Metaphysically, Ethically, and Legally [Excerpt]'",
+ "context": "This is an excerpt - if you would like to read the full paper, it is [here](https://arxiv.org/pdf/2404.10072) and takes roughly 1 hour and 30 minutes. We have excerpted Section 8: The Troubling Implications of Legal Rationales for Robot Rights.\n\n_Makes a case against the applicability of rights to AI systems._",
+ "alsoReading": [
+  {
+   "section": "7.1",
+   "path": "../readings/17-debunking-robot-rights-metaphysically-ethically-and-legally.md",
+   "title": "Debunking Robot Rights Metaphysically, Ethically, and Legally"
+  }
+ ],
+ "otherOccurrences": [
+  {
+   "section": "7.1",
+   "kind": "resource",
+   "path": "../readings/17-debunking-robot-rights-metaphysically-ethically-and-legally.md"
+  }
+ ],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

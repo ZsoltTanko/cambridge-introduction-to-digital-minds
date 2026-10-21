@@ -1,0 +1,76 @@
+{
+ "id": "i116",
+ "kind": "resource",
+ "section": "8.1",
+ "sectionTitle": "Reflections and Next Steps",
+ "unit": 8,
+ "unitTitle": "Reflections and Next Steps",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/8/1",
+ "pagePath": "units/8-reflections-and-next-steps/8.1-reflections-and-next-steps/page.md",
+ "url": "https://forum.effectivealtruism.org/posts/SZJBE3fuk2majqwJQ/principles-for-ai-welfare-research#:~:text=build%20with%20them.-,4.%20Principles%20for%20AI%20welfare%20research,-With%20all%20that",
+ "summaryFile": "units/8-reflections-and-next-steps/8.1-reflections-and-next-steps/readings/02-principles-for-ai-welfare-research.md",
+ "sourceFile": "sources/principles-for-ai-welfare-research__00249f44.md",
+ "sourceRel": "../../../../sources/principles-for-ai-welfare-research__00249f44.md",
+ "sourceStatus": "ok",
+ "sourceWords": 4054,
+ "sourceMethod": "forum-api",
+ "formatHint": "article / blog post / web page",
+ "title": "Principles for AI Welfare Research",
+ "authors": "Jeff Sebo",
+ "year": 2023,
+ "priority": "Core",
+ "timeMins": 14,
+ "guide": "**Read only**: section titled ‘Principles for AI Welfare Research'. **Stop** when you get to the conclusion. \n\n_Outlines principles for AI welfare research, including pluralism, probabilistic thinking overcoming biases._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Otherminds.ai Resources Page",
+   "path": "01-otherminds-ai-resources-page.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Research Agenda: Social Science of Digital Minds",
+   "path": "03-research-agenda-social-science-of-digital-minds.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Research priorities for AI welfare",
+   "path": "04-research-priorities-for-ai-welfare.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Subjective Experience in AI Systems: What Do AI Researchers and the Public Believe?, Executive Summary only pp1-5",
+   "path": "05-subjective-experience-in-ai-systems-what-do-ai-researchers-a.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Digital minds governance: early scoping from expert interviews",
+   "path": "06-digital-minds-governance-early-scoping-from-expert-interview.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI Cognition",
+   "path": "07-ai-cognition.md",
+   "priority": "Further"
+  },
+  {
+   "title": "AI Welfare Debate Week",
+   "path": "08-ai-welfare-debate-week.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Mapping the Field of Artificial Consciousness",
+   "path": "09-mapping-the-field-of-artificial-consciousness.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Principles for AI Welfare Research",
+   "path": "10-principles-for-ai-welfare-research.md",
+   "priority": "Maybe"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

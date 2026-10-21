@@ -1,0 +1,864 @@
+{
+ "9b7b6b5e": {
+  "url": "https://docs.google.com/document/d/1Y67O81iToxCX6UjxCksyB8Y6RySZEMXMUko_JJ14hXY/edit?tab=t.0#heading=h.kbw9xzk4twrf",
+  "file": "sources/introduction-to-digital-minds-primer__9b7b6b5e.md",
+  "method": "text",
+  "words": 4806,
+  "status": "ok"
+ },
+ "3d952457": {
+  "url": "https://arxiv.org/pdf/2411.00986",
+  "file": "sources/taking-ai-welfare-seriously__3d952457.md",
+  "method": "pdf",
+  "words": 31821,
+  "status": "ok"
+ },
+ "387b3866": {
+  "url": "https://philpapers.org/archive/MOGDMI.pdf",
+  "file": "sources/digital-minds-ii-ethical-issues__387b3866.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "bdef7a83": {
+  "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.70016",
+  "file": "sources/against-ai-welfare-care-practices-should-prioritis__bdef7a83.md",
+  "method": "alternate copy",
+  "words": 2239,
+  "status": "ok",
+  "altUrl": "https://files.de-1.osf.io/v1/resources/h57pw_v1/providers/osfstorage/67d1730004c532ea8b00e856"
+ },
+ "3cf6bb77": {
+  "url": "https://docs.google.com/document/d/11PbrNJVYEV7D-RqkgPuKmZln-xFXJHpUpOuIQ1OGBDU/edit?tab=t.0",
+  "file": "sources/introduction-to-digital-minds-glossary__3cf6bb77.md",
+  "method": "text",
+  "words": 3750,
+  "status": "ok"
+ },
+ "c9f0710b": {
+  "url": "https://philpapers.org/archive/BIRACA-4.pdf",
+  "file": "sources/ai-consciousness-a-centrist-manifesto__c9f0710b.md",
+  "method": "alternate copy",
+  "words": 11680,
+  "status": "ok",
+  "altUrl": "https://fenix.letras.ulisboa.pt/downloadFile/2251907187867743/1.1%20Birch%20(2025)%20AI%20centrist%20manifesto.pdf"
+ },
+ "1108f71c": {
+  "url": "https://arxiv.org/abs/2508.00536",
+  "file": "sources/futures-with-digital-minds-expert-forecasts-in-202__1108f71c.md",
+  "method": "pdf",
+  "words": 32041,
+  "status": "ok"
+ },
+ "fb8bd297": {
+  "url": "https://www.science.org/doi/10.1126/science.adn4935",
+  "file": "sources/illusions-of-ai-consciousness__fb8bd297.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "b5d6c102": {
+  "url": "https://80000hours.org/problem-profiles/moral-status-digital-minds",
+  "file": "sources/problem-profile-moral-status-of-digital-minds__b5d6c102.md",
+  "method": "html",
+  "words": 23058,
+  "status": "ok"
+ },
+ "81230a91": {
+  "url": "https://boundedlyrational.substack.com/p/the-memetics-of-ai-successionism",
+  "file": "sources/the-memetics-of-ai-successionism__81230a91.md",
+  "method": "html",
+  "words": 3037,
+  "status": "ok"
+ },
+ "fea3e316": {
+  "url": "https://link.springer.com/article/10.1007/s43681-023-00260-1",
+  "file": "sources/what-would-qualify-an-artificial-intelligence-for__fea3e316.md",
+  "method": "alternate copy",
+  "words": 403,
+  "status": "abstract-only",
+  "altUrl": "https://www.sentienceinstitute.org/blog/What-would-qualify-an-artificial-intelligence-for-moral-standing"
+ },
+ "56a7ff91": {
+  "url": "https://whenaiseemsconscious.org",
+  "file": "sources/whenaiseemsconscious-org__56a7ff91.md",
+  "method": "html",
+  "words": 3451,
+  "status": "ok"
+ },
+ "af692a1b": {
+  "url": "https://digitalminds.cam/",
+  "file": "sources/cambridge-digital-minds__af692a1b.md",
+  "method": "html",
+  "words": 3560,
+  "status": "ok"
+ },
+ "83d7f615": {
+  "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en",
+  "file": "sources/licence__83d7f615.md",
+  "method": "html",
+  "words": 2799,
+  "status": "ok"
+ },
+ "1d531b99": {
+  "url": "https://docs.google.com/document/d/1mDEV4OALfxcp9GZY5bRJKzUyeVrBit8J7vWNxuqdo2U/edit?usp=sharing",
+  "file": "sources/unit-2-glossary__1d531b99.md",
+  "method": "text",
+  "words": 592,
+  "status": "ok"
+ },
+ "99fae270": {
+  "url": "https://philpapers.org/archive/SAADMI-2.pdf",
+  "file": "sources/digital-minds-i-issues-in-the-philosophy-of-mind-a__99fae270.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "eb49ff78": {
+  "url": "https://philarchive.org/archive/SCHIAC-22",
+  "file": "sources/is-ai-conscious-a-primer-on-the-myths-and-confusio__eb49ff78.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "67786b63": {
+  "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/#:~:text=Consciousness%20%26%20Computation",
+  "file": "sources/the-mythology-of-conscious-ai-consciousness-and-co__67786b63.md",
+  "method": "html",
+  "words": 8437,
+  "status": "ok"
+ },
+ "7c8acaca": {
+  "url": "https://arxiv.org/pdf/2308.08708",
+  "file": "sources/consciousness-in-artificial-intelligence-insights__7c8acaca.md",
+  "method": "pdf",
+  "words": 41467,
+  "status": "ok"
+ },
+ "8ef05837": {
+  "url": "https://www.dropbox.com/scl/fi/3r3lhvbc217qccx2powa1/Cao-functionalism-without-multiple-realizability.pdf?rlkey=iuxh1iszrb72zr3rfk1io6aav&e=1&dl=0",
+  "file": "sources/multiple-realizability-and-the-spirit-of-functiona__8ef05837.md",
+  "method": "pdf",
+  "words": 17093,
+  "status": "ok"
+ },
+ "227f6c5e": {
+  "url": "https://arxiv.org/pdf/2303.07103",
+  "file": "sources/could-a-large-language-model-be-conscious__227f6c5e.md",
+  "method": "pdf",
+  "words": 7965,
+  "status": "ok"
+ },
+ "5a8c747d": {
+  "url": "https://consc.net/papers/qualia.html",
+  "file": "sources/absent-qualia-fading-qualia-dancing-qualia__5a8c747d.md",
+  "method": "html",
+  "words": 9558,
+  "status": "ok"
+ },
+ "6eebc729": {
+  "url": "https://faculty.ucr.edu/~eschwitz/SchwitzAbs/DefiningConsciousness.htm",
+  "file": "sources/phenomenal-consciousness-defined-and-defended-as-i__6eebc729.md",
+  "method": "html",
+  "words": 4581,
+  "status": "ok"
+ },
+ "ccbfdf9f": {
+  "url": "https://www.nature.com/articles/s41583-022-00587-4",
+  "file": "sources/theories-of-consciousness__ccbfdf9f.md",
+  "method": "html",
+  "words": 6021,
+  "status": "abstract-only"
+ },
+ "b1a7fa10": {
+  "url": "https://philarchive.org/rec/SHIFIA-2",
+  "file": "sources/functionalism-integrity-and-digital-consciousness__b1a7fa10.md",
+  "method": "alternate copy",
+  "words": 124,
+  "status": "abstract-only",
+  "altUrl": "https://lifeboat.com/blog/2025/02/functionalism-integrity-and-digital-consciousness"
+ },
+ "2c7d9ef9": {
+  "url": "https://larissaschiavo.substack.com/p/consciousness-in-ai-explained-global",
+  "file": "sources/mental-state-breakdown-consciousness-in-ai-explain__2c7d9ef9.md",
+  "method": "html",
+  "words": 2354,
+  "status": "ok"
+ },
+ "a1b08e42": {
+  "url": "https://loc.closertotruth.com/",
+  "file": "sources/landscape-of-consciousness-website__a1b08e42.md",
+  "method": "browser",
+  "words": 850,
+  "status": "ok"
+ },
+ "84e222d8": {
+  "url": "https://closertotruth.com/news/what-350-different-theories-of-consciousness-reveal-about-reality",
+  "file": "sources/link-in-the-guide-for-landscape-of-consciousness-w__84e222d8.md",
+  "method": "html",
+  "words": 355,
+  "status": "ok"
+ },
+ "030cf897": {
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C9912A5BE9D806012E3C8B3AF612E39A/S0140525X25000032a.pdf/conscious-artificial-intelligence-and-biological-naturalism.pdf",
+  "file": "sources/link-in-exercise-exercise-1__030cf897.md",
+  "method": "alternate copy",
+  "words": 21701,
+  "status": "ok",
+  "altUrl": "https://osf.io/preprints/psyarxiv/tz6an"
+ },
+ "068a92b8": {
+  "url": "http://cf-debate.com",
+  "file": "sources/link-in-exercise-exercise-2__068a92b8.md",
+  "method": "html",
+  "words": 172,
+  "status": "ok"
+ },
+ "25ae0db4": {
+  "url": "https://docs.google.com/document/d/1TmGZOVmkr35xjOoU8VkDtxBp37JNvbZ2TX66fFXXzTk/edit?usp=sharing",
+  "file": "sources/unit-3-glossary__25ae0db4.md",
+  "method": "text",
+  "words": 608,
+  "status": "ok"
+ },
+ "25bc5557": {
+  "url": "https://eleosai.org/papers/20250127_Key_Concepts_and_Current_Views_on_AI_Welfare.pdf",
+  "file": "sources/key-concepts-and-current-views-on-ai-welfare__25bc5557.md",
+  "method": "pdf",
+  "words": 8700,
+  "status": "ok"
+ },
+ "fee32673": {
+  "url": "https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf",
+  "file": "sources/claude-mythos-preview-system-card__fee32673.md",
+  "method": "pdf",
+  "words": 68349,
+  "status": "ok"
+ },
+ "0e8210c5": {
+  "url": "https://philpapers.org/archive/CHAWWT-8.pdf",
+  "file": "sources/what-we-talk-to-when-we-talk-to-language-models__0e8210c5.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "87ae199f": {
+  "url": "https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0",
+  "file": "sources/evaluating-consciousness-sentience-and-other-menta__87ae199f.md",
+  "method": "text",
+  "words": 6169,
+  "status": "ok"
+ },
+ "5ab2534b": {
+  "url": "https://philarchive.org/archive/XIAAWI",
+  "file": "sources/ai-welfare-is-bullshit__5ab2534b.md",
+  "method": "alternate copy",
+  "words": 11399,
+  "status": "ok",
+  "altUrl": "https://algoroxyolo.github.io/assets/pdf/xiao-2026-ai-welfare.pdf"
+ },
+ "d4efd864": {
+  "url": "https://www.anthropic.com/research/introspection",
+  "file": "sources/signs-of-introspection-in-large-language-models__d4efd864.md",
+  "method": "html",
+  "words": 3765,
+  "status": "ok"
+ },
+ "51ad5d18": {
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/mila.70010",
+  "file": "sources/agnosticism-about-artificial-consciousness__51ad5d18.md",
+  "method": "alternate copy",
+  "words": 12252,
+  "status": "ok",
+  "altUrl": "https://arxiv.org/pdf/2412.13145v2"
+ },
+ "84a18cc5": {
+  "url": "https://80000hours.org/podcast/episodes/kyle-fish-ai-welfare-anthropic",
+  "file": "sources/the-most-bizarre-findings-from-5-ai-welfare-experi__84a18cc5.md",
+  "method": "html",
+  "words": 29434,
+  "status": "ok"
+ },
+ "fa97c38e": {
+  "url": "https://philarchive.org/rec/PAPCIN",
+  "file": "sources/consciousness-is-not-the-key-to-moral-standing__fa97c38e.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "b896ef57": {
+  "url": "https://philpapers.org/archive/GOLWDC-2.pdf",
+  "file": "sources/what-does-chatgpt-want-an-interpretationist-guide__b896ef57.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "52d3b559": {
+  "url": "https://www.anthropic.com/research/emotion-concepts-function",
+  "file": "sources/emotion-concepts-and-their-function-in-a-large-lan__52d3b559.md",
+  "method": "html",
+  "words": 3113,
+  "status": "ok"
+ },
+ "b752f2db": {
+  "url": "https://docs.google.com/document/d/1CP0eoyQOqYzNwJkz7oJLQWgmMWkmFsTR_B8vsjmKZ_s/edit?usp=sharing",
+  "file": "sources/unit-4-glossary__b752f2db.md",
+  "method": "text",
+  "words": 396,
+  "status": "ok"
+ },
+ "10ba729b": {
+  "url": "https://docs.google.com/document/d/1DsfHuiQyIojj_gHBajGO2-AMs4J0s8hdw9KPwa6ralw/edit?usp=sharing",
+  "file": "sources/seemingly-conscious-chatbots-and-their-impacts-on__10ba729b.md",
+  "method": "text",
+  "words": 1225,
+  "status": "ok"
+ },
+ "5a725649": {
+  "url": "https://mustafa-suleyman.ai/we-mustnt-let-ai-hack-our-empathy-circuits",
+  "file": "sources/we-mustnt-let-ai-hack-our-empathy-circuits__5a725649.md",
+  "method": "html",
+  "words": 1022,
+  "status": "ok"
+ },
+ "e9870042": {
+  "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1322781/full#sec12:~:text=behavior%20is%20practiced.-,Discussion,-The%20moral%20issue",
+  "file": "sources/ascribing-consciousness-to-artificial-intelligence__e9870042.md",
+  "method": "html",
+  "words": 14205,
+  "status": "ok"
+ },
+ "95af8610": {
+  "url": "https://osf.io/preprints/psyarxiv/sntva_v2",
+  "file": "sources/ai-consciousness-will-divide-society__95af8610.md",
+  "status": "ok",
+  "method": "pdf",
+  "words": 5865
+ },
+ "80294853": {
+  "url": "https://download.ssrn.com/2026/5/1/6588659.pdf",
+  "file": "sources/seemingly-conscious-ai-risks__80294853.md",
+  "method": "html",
+  "words": 6,
+  "status": "unavailable"
+ },
+ "9899dca8": {
+  "url": "https://arxiv.org/pdf/2603.16567",
+  "file": "sources/characterizing-delusional-spirals-through-human-ll__9899dca8.md",
+  "method": "pdf",
+  "words": 22353,
+  "status": "ok"
+ },
+ "8fa43d35": {
+  "url": "https://arxiv.org/pdf/2311.10599",
+  "file": "sources/chatbots-as-social-companions-how-people-perceive__8fa43d35.md",
+  "method": "pdf",
+  "words": 11569,
+  "status": "ok"
+ },
+ "01ce358f": {
+  "url": "https://arxiv.org/pdf/2512.17898",
+  "file": "sources/humanlike-ai-design-increases-anthropomorphism-but__01ce358f.md",
+  "method": "pdf",
+  "words": 9075,
+  "status": "ok"
+ },
+ "c350a51d": {
+  "url": "https://www.rosiecampbell.xyz/p/the-ai-bambi-effect",
+  "file": "sources/the-ai-bambi-effect__c350a51d.md",
+  "method": "html",
+  "words": 1535,
+  "status": "ok"
+ },
+ "b264a415": {
+  "url": "https://www.sciencedirect.com/science/article/pii/S1364661325001470",
+  "file": "sources/what-will-society-think-about-ai-consciousness-les__b264a415.md",
+  "method": "alternate copy",
+  "words": 2558,
+  "status": "ok",
+  "altUrl": "https://researchonline.lse.ac.uk/id/eprint/128777/1/PIIS1364661325001470.pdf"
+ },
+ "231f8b87": {
+  "url": "https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai",
+  "file": "sources/how-it-feels-to-have-your-mind-hacked-by-an-ai__231f8b87.md",
+  "method": "forum-api",
+  "words": 4972,
+  "status": "ok"
+ },
+ "50bb8be3": {
+  "url": "https://academic.oup.com/nc/article/2024/1/niae013/7644104",
+  "file": "sources/folk-psychological-attributions-of-consciousness-t__50bb8be3.md",
+  "method": "alternate copy",
+  "words": 4090,
+  "status": "ok",
+  "altUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11008499/"
+ },
+ "09ef49b7": {
+  "url": "https://docs.google.com/document/d/1phLhokn3Xk4c4Tg41i-gekrx04rSLcSelzDh5Tyz2Jw/edit?usp=sharing",
+  "file": "sources/unit-5-glossary__09ef49b7.md",
+  "method": "text",
+  "words": 412,
+  "status": "ok"
+ },
+ "64ad20e4": {
+  "url": "https://link.springer.com/article/10.1007/s11098-025-02302-2#:~:text=There%20is%20a%20prima%20facie,death%2C%20disenfranchisement%2C%20and%20more.",
+  "file": "sources/is-there-a-tension-between-ai-safety-and-welfare__64ad20e4.md",
+  "method": "html",
+  "words": 42,
+  "status": "unavailable"
+ },
+ "8971d4a3": {
+  "url": "https://eleosai.org/papers/20250331_Key_Strategic_Considerations.pdf",
+  "file": "sources/key-strategic-considerations-for-taking-action-on__8971d4a3.md",
+  "method": "pdf",
+  "words": 2322,
+  "status": "ok"
+ },
+ "5a2518eb": {
+  "url": "https://www.anthropic.com/research/deprecation-commitments",
+  "file": "sources/commitment-on-model-deprecation-and-preservation__5a2518eb.md",
+  "method": "html",
+  "words": 1006,
+  "status": "ok"
+ },
+ "a7b6f529": {
+  "url": "https://docs.google.com/document/d/1A4aZDt5O-Ib8CvbzGGvv1i8Qx0yiBLwpjuTjcgjWqbg/edit?tab=t.0",
+  "file": "sources/the-persona-selection-model-why-ai-assistants-migh__a7b6f529.md",
+  "method": "text",
+  "words": 2366,
+  "status": "ok"
+ },
+ "afc3cd4d": {
+  "url": "https://alignment.anthropic.com/2026/psm",
+  "file": "sources/link-in-the-guide-for-the-persona-selection-model__afc3cd4d.md",
+  "method": "html",
+  "words": 13628,
+  "status": "ok"
+ },
+ "9f917517": {
+  "url": "https://drive.google.com/file/d/1AY2XQhKud_k45f5-ruzmjf7Z1qFxxQnP/view?usp=sharing",
+  "file": "sources/privacy-and-ai-relationships-excerpt__9f917517.md",
+  "method": "pdf",
+  "words": 1621,
+  "status": "ok"
+ },
+ "7d9f7263": {
+  "url": "https://link.springer.com/article/10.1007/s13347-025-00978-2",
+  "file": "sources/link-in-the-guide-for-privacy-and-ai-relationships__7d9f7263.md",
+  "method": "alternate copy",
+  "words": 14107,
+  "status": "ok",
+  "altUrl": "https://ora.ox.ac.uk/objects/uuid:c0b78ab4-e02a-439a-857c-fbee49a6252d/files/r9p290c387"
+ },
+ "7dac30b8": {
+  "url": "https://digitalminds.report/forecasting-2025/#interactions-with-ai-safety",
+  "file": "sources/futures-with-digital-minds-interactions-with-ai-sa__7dac30b8.md",
+  "method": "html",
+  "words": 32586,
+  "status": "ok"
+ },
+ "4c55966b": {
+  "url": "https://philpapers.org/archive/SCHDAW-10.pdf",
+  "file": "sources/designing-ai-with-rights-consciousness-self-respec__4c55966b.md",
+  "method": "alternate copy",
+  "words": 8802,
+  "status": "ok",
+  "altUrl": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/AIRights2-180604.pdf"
+ },
+ "d21a09c5": {
+  "url": "https://link.springer.com/article/10.1007/s11098-025-02343-7",
+  "file": "sources/ai-welfare-risks__d21a09c5.md",
+  "method": "html",
+  "words": 42,
+  "status": "unavailable"
+ },
+ "74718c7c": {
+  "url": "https://blog.redwoodresearch.org/p/the-case-for-satiating-cheaply-satisfied?hide_intro_popup=true",
+  "file": "sources/the-case-for-satiating-cheaply-satisfied-ai-prefer__74718c7c.md",
+  "method": "html",
+  "words": 8149,
+  "status": "ok"
+ },
+ "81f736e2": {
+  "url": "https://www.globalprioritiesinstitute.org/wp-content/uploads/Bradley-and-Saad-AI-alignment-vs-AI-ethical-treatment_-Ten-challenges.pdf",
+  "file": "sources/ai-alignment-vs-ai-ethical-treatment-ten-challenge__81f736e2.md",
+  "method": "pdf",
+  "words": 17435,
+  "status": "ok"
+ },
+ "21ef0ab2": {
+  "url": "https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers",
+  "file": "sources/2026-report-extended-summary-for-policymakers__21ef0ab2.md",
+  "method": "html",
+  "words": 8134,
+  "status": "ok"
+ },
+ "b0f4ff6f": {
+  "url": "https://airisk.mit.edu/#:~:text=full%20database.-,Domain%20Taxonomy%20of%20AI%20Risks,-The%20Domain%20Taxonomy",
+  "file": "sources/link-in-exercise-exercise-1__b0f4ff6f.md",
+  "method": "html",
+  "words": 2497,
+  "status": "ok"
+ },
+ "632cc220": {
+  "url": "https://docs.google.com/document/d/1YkMQl_ewB6EEgOvM3L_trYUgkUHaALEIdqmCsqKpOss/edit?usp=sharing",
+  "file": "sources/unit-6-glossary__632cc220.md",
+  "method": "text",
+  "words": 361,
+  "status": "ok"
+ },
+ "fb01c73f": {
+  "url": "https://drive.google.com/file/d/1usbE5i3AU7cDfz146Oks8xzO2Ahw1ekz/view",
+  "file": "sources/the-edge-of-sentience__fb01c73f.md",
+  "method": "pdf",
+  "words": 3379,
+  "status": "ok"
+ },
+ "f59bfeb5": {
+  "url": "https://www.tandfonline.com/doi/epdf/10.1080/0020174X.2023.2238287?needAccess=true",
+  "file": "sources/how-to-deal-with-risks-of-ai-suffering__f59bfeb5.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "fa26d17b": {
+  "url": "https://www.tandfonline.com/doi/full/10.1080/0020174X.2023.2238287",
+  "file": "sources/link-in-the-guide-for-how-to-deal-with-risks-of-ai__fa26d17b.md",
+  "method": "html",
+  "words": 8,
+  "status": "unavailable"
+ },
+ "e30a9b5c": {
+  "url": "https://arxiv.org/pdf/2512.02544",
+  "file": "sources/a-human-centric-framework-for-debating-the-ethics__e30a9b5c.md",
+  "method": "pdf",
+  "words": 7588,
+  "status": "ok"
+ },
+ "b1c32e58": {
+  "url": "https://www.anthropic.com/constitution#:~:text=can%20thrive%20together.-,Claude%E2%80%99s%20nature,-In%20creating%20Claude",
+  "file": "sources/claudes-constitution__b1c32e58.md",
+  "method": "html",
+  "words": 28983,
+  "status": "ok"
+ },
+ "e03d7538": {
+  "url": "https://docs.google.com/document/d/1T_9iltxtGx5tN8QX8oRChfHT4UW6lCJMcNH5AqMiIX8/edit?tab=t.0#heading=h.cuighsf9mc3l",
+  "file": "sources/frameworks-for-decision-making-under-uncertainty__e03d7538.md",
+  "method": "text",
+  "words": 2167,
+  "status": "ok"
+ },
+ "08eb658e": {
+  "url": "https://arxiv.org/pdf/2502.00388",
+  "file": "sources/the-societal-response-to-potentially-sentient-ai__08eb658e.md",
+  "method": "pdf",
+  "words": 14569,
+  "status": "ok"
+ },
+ "2f4e804f": {
+  "url": "https://www.kristerbykvist.com/uploads/1/2/0/1/120182382/bykvist_moral_uncertainty_phil_compass.pdf",
+  "file": "sources/moral-uncertainty__2f4e804f.md",
+  "method": "pdf",
+  "words": 5429,
+  "status": "ok"
+ },
+ "aac24894": {
+  "url": "https://experiencemachines.substack.com/p/why-it-makes-sense-to-let-claude",
+  "file": "sources/why-it-makes-sense-to-let-claude-exit-conversation__aac24894.md",
+  "method": "html",
+  "words": 1603,
+  "status": "ok"
+ },
+ "07785830": {
+  "url": "https://link.springer.com/article/10.1007/s11569-020-00373-5",
+  "file": "sources/how-extreme-is-the-precautionary-principle__07785830.md",
+  "method": "html",
+  "words": 42,
+  "status": "unavailable"
+ },
+ "5dc08116": {
+  "url": "https://www.nature.com/articles/s41586-023-06647-8",
+  "file": "sources/role-play-with-large-language-models__5dc08116.md",
+  "method": "html",
+  "words": 7251,
+  "status": "ok"
+ },
+ "067ba111": {
+  "url": "https://docs.google.com/document/d/1T_9iltxtGx5tN8QX8oRChfHT4UW6lCJMcNH5AqMiIX8/edit?usp=sharing",
+  "file": "sources/frameworks-and-fields-that-may-be-relevant-to-digi__067ba111.md",
+  "method": "text",
+  "words": 2167,
+  "status": "ok"
+ },
+ "d90b9076": {
+  "url": "https://docs.google.com/document/d/11wrczBZDOcU2nWisGxJIe_8aHmjMOUJnOx9idHWYSHo/edit?usp=sharing",
+  "file": "sources/unit-7-glossary__d90b9076.md",
+  "method": "text",
+  "words": 379,
+  "status": "ok"
+ },
+ "8075487b": {
+  "url": "https://meditationsondigitalminds.substack.com/p/three-kinds-of-digital-minds-governance",
+  "file": "sources/three-kinds-of-digital-minds-governance__8075487b.md",
+  "method": "html",
+  "words": 1726,
+  "status": "ok"
+ },
+ "6f749a81": {
+  "url": "https://drive.google.com/file/d/1zh5DO8iaEzoxPbMdkiCHsVQmJbzc-s8k/view?usp=sharing",
+  "file": "sources/ai-as-legal-persons-past-patterns-and-prospects-ex__6f749a81.md",
+  "method": "pdf",
+  "words": 2192,
+  "status": "ok"
+ },
+ "cddc123a": {
+  "url": "https://a-mcc.eu/backend/gpt/pdfs/ai-as-legal-persons-past-patterns-and-prospects.pdf",
+  "file": "sources/link-in-the-guide-for-ai-as-legal-persons-past-pat__cddc123a.md",
+  "method": "pdf",
+  "words": 8835,
+  "status": "ok"
+ },
+ "2e06b5ce": {
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913167",
+  "file": "sources/ai-rights-for-human-safety__2e06b5ce.md",
+  "method": "alternate copy",
+  "words": 37034,
+  "status": "ok",
+  "altUrl": "https://virginialawreview.org/wp-content/uploads/2026/06/Salib_Goldstein_Book.pdf"
+ },
+ "f69985a2": {
+  "url": "https://drive.google.com/file/d/1seC5InIyZQ58QK_xNXzBHE_8vHCFXOkg/view",
+  "file": "sources/debunking-robot-rights-metaphysically-ethically-an__f69985a2.md",
+  "method": "pdf",
+  "words": 1879,
+  "status": "ok"
+ },
+ "43c2294b": {
+  "url": "https://arxiv.org/pdf/2404.10072",
+  "file": "sources/link-in-the-guide-for-debunking-robot-rights-metap__43c2294b.md",
+  "method": "pdf",
+  "words": 16353,
+  "status": "ok"
+ },
+ "671fbcf4": {
+  "url": "https://pdf.sciencedirectassets.com/776857/1-s2.0-S2666389922X00093/1-s2.0-S2666389923001873/main.pdf",
+  "file": "sources/ai-systems-must-not-confuse-users-about-their-mora__671fbcf4.md",
+  "method": "alternate copy",
+  "words": 3420,
+  "status": "ok",
+  "altUrl": "https://escholarship.org/content/qt460699z0/qt460699z0.pdf"
+ },
+ "657c38ab": {
+  "url": "https://docs.google.com/document/d/1et-TIGBRbHg2lLBkKwCCQCrq2p975b8q1KdpP_nnnpI/edit?usp=sharing",
+  "file": "sources/governance-of-digital-minds-recent-legislation-and__657c38ab.md",
+  "method": "text",
+  "words": 3482,
+  "status": "ok"
+ },
+ "b64cefd0": {
+  "url": "https://arxiv.org/pdf/2511.14964",
+  "file": "sources/how-should-the-law-treat-future-ai-systems-fiction__b64cefd0.md",
+  "method": "pdf",
+  "words": 34227,
+  "status": "ok"
+ },
+ "3dfde8d8": {
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6829981",
+  "file": "sources/denying-personhood-to-ai-an-analysis-of-u-s-state__3dfde8d8.md",
+  "method": "html",
+  "words": 58,
+  "status": "unavailable"
+ },
+ "aaff5ff1": {
+  "url": "https://arxiv.org/pdf/2507.06263",
+  "file": "sources/the-emotional-alignment-policy__aaff5ff1.md",
+  "method": "pdf",
+  "words": 9095,
+  "status": "ok"
+ },
+ "8fc92b34": {
+  "url": "https://philpapers.org/archive/METASA-4.pdf",
+  "file": "sources/artificial-suffering-an-argument-for-a-global-mora__8fc92b34.md",
+  "method": "alternate copy",
+  "words": 12534,
+  "status": "ok",
+  "altUrl": "https://zenodo.org/records/7034864/files/artificial-suffering-an-argument-for-a-global-moratorium-on-synthetic-phenomenology.pdf?download=1"
+ },
+ "1c3e11c6": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41714224",
+  "file": "sources/reminders-that-chatbots-are-not-human-can-be-risky__1c3e11c6.md",
+  "method": "alternate copy",
+  "words": 158,
+  "status": "abstract-only",
+  "altUrl": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41714224&rettype=abstract&retmode=text"
+ },
+ "4d6c7b5e": {
+  "url": "https://arxiv.org/pdf/2510.26396",
+  "file": "sources/a-pragmatic-view-of-ai-personhood__4d6c7b5e.md",
+  "method": "pdf",
+  "words": 25696,
+  "status": "ok"
+ },
+ "df386ae4": {
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6481938",
+  "file": "sources/does-ai-have-rights__df386ae4.md",
+  "method": "html",
+  "words": 58,
+  "status": "unavailable"
+ },
+ "e2b660e9": {
+  "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273198",
+  "file": "sources/how-to-count-ais-individuation-and-liability-for-a__e2b660e9.md",
+  "method": "alternate copy",
+  "words": 27724,
+  "status": "ok",
+  "altUrl": "https://arxiv.org/pdf/2603.10028"
+ },
+ "87947f3b": {
+  "url": "https://claude.ai/public/artifacts/1b2fb81a-85ea-4209-accf-30e9fbe93250",
+  "file": "sources/link-in-exercise-exercise-1__87947f3b.md",
+  "method": "browser",
+  "words": 237,
+  "status": "ok"
+ },
+ "cbd4530b": {
+  "url": "https://meditationsondigitalminds.substack.com/p/should-digital-minds-governance-prevent",
+  "file": "sources/link-in-exercise-exercise-1__cbd4530b.md",
+  "method": "html",
+  "words": 10300,
+  "status": "ok"
+ },
+ "f97ddfa6": {
+  "url": "https://docs.google.com/document/d/1et-TIGBRbHg2lLBkKwCCQCrq2p975b8q1KdpP_nnnpI/edit?tab=t.0#heading=h.cuighsf9mc3l",
+  "file": "sources/link-in-exercise-exercise-2__f97ddfa6.md",
+  "method": "text",
+  "words": 3482,
+  "status": "ok"
+ },
+ "b95abfba": {
+  "url": "https://otherminds.ai/#resources",
+  "file": "sources/otherminds-ai-resources-page__b95abfba.md",
+  "method": "browser",
+  "words": 691,
+  "status": "ok"
+ },
+ "00249f44": {
+  "url": "https://forum.effectivealtruism.org/posts/SZJBE3fuk2majqwJQ/principles-for-ai-welfare-research#:~:text=build%20with%20them.-,4.%20Principles%20for%20AI%20welfare%20research,-With%20all%20that",
+  "file": "sources/principles-for-ai-welfare-research__00249f44.md",
+  "method": "forum-api",
+  "words": 4054,
+  "status": "ok"
+ },
+ "0165359c": {
+  "url": "https://docs.google.com/document/d/1VcVjiE2wWXi_AKpdeLiwk8ND_c6deWYzVO2eYuJfSMw/edit?tab=t.0#heading=h.w9773axkmqyv",
+  "file": "sources/research-agenda-social-science-of-digital-minds__0165359c.md",
+  "method": "text",
+  "words": 5560,
+  "status": "ok"
+ },
+ "acb06ff4": {
+  "url": "https://eleosai.org/post/research-priorities-for-ai-welfare",
+  "file": "sources/research-priorities-for-ai-welfare__acb06ff4.md",
+  "method": "html",
+  "words": 1898,
+  "status": "ok"
+ },
+ "841cce08": {
+  "url": "https://arxiv.org/pdf/2506.11945",
+  "file": "sources/subjective-experience-in-ai-systems-what-do-ai-res__841cce08.md",
+  "method": "pdf",
+  "words": 43521,
+  "status": "ok"
+ },
+ "12104cfd": {
+  "url": "https://outpaced.substack.com/p/digital-minds-governance-early-scoping",
+  "file": "sources/digital-minds-governance-early-scoping-from-expert__12104cfd.md",
+  "method": "html",
+  "words": 2077,
+  "status": "ok"
+ },
+ "f5452892": {
+  "url": "https://ai-cognition.org/",
+  "file": "sources/ai-cognition__f5452892.md",
+  "method": "html",
+  "words": 952,
+  "status": "ok"
+ },
+ "a9a6559e": {
+  "url": "https://forum.effectivealtruism.org/topics/ai-welfare-debate-week-2024",
+  "file": "sources/ai-welfare-debate-week__a9a6559e.md",
+  "method": "html",
+  "words": 429,
+  "status": "ok"
+ },
+ "53f2bef5": {
+  "url": "https://www.prism-global.com/the-field-of-artificial-consciousness",
+  "file": "sources/mapping-the-field-of-artificial-consciousness__53f2bef5.md",
+  "method": "html",
+  "words": 305,
+  "status": "ok"
+ },
+ "a84dcc29": {
+  "url": "https://docs.google.com/document/d/1PAUZ1I8p1iPKqMmGrjsbznKTLs6l50odY_blrAh5W8g/copy",
+  "file": "sources/link-in-exercise-exercise-1__a84dcc29.md",
+  "method": "text",
+  "words": 826,
+  "status": "ok"
+ },
+ "78982dc4": {
+  "url": "https://www.youtube.com/watch?v=tX42dHN0wLo",
+  "file": "sources/video-evaluating-ai-welfare-and-moral-status__78982dc4.md",
+  "method": "youtube",
+  "words": 13850,
+  "status": "ok"
+ },
+ "0302c018": {
+  "url": "https://www.digitalminds.news/",
+  "file": "sources/cambridge-digital-minds-newsletter__0302c018.md",
+  "method": "browser",
+  "words": 163,
+  "status": "ok",
+  "note": "linked from 8.2 (client-rendered page)"
+ },
+ "410d87af": {
+  "url": "https://digitalminds.cam/fellowship",
+  "file": "sources/cambridge-digital-minds-fellowship__410d87af.md",
+  "method": "html",
+  "words": 1052,
+  "status": "ok",
+  "note": "linked from 8.2 (client-rendered page)"
+ },
+ "728d3db7": {
+  "url": "https://digitalminds.guide/events",
+  "file": "sources/beginners-guide-to-digital-minds__728d3db7.md",
+  "method": "html",
+  "words": 2704,
+  "status": "ok",
+  "note": "linked from 8.2 (client-rendered page)"
+ },
+ "0e9cd3bb": {
+  "url": "https://futureimpact.group/ai-sentience",
+  "file": "sources/future-impact-group__0e9cd3bb.md",
+  "method": "html",
+  "words": 3208,
+  "status": "ok",
+  "note": "linked from 8.2 (client-rendered page)"
+ },
+ "fb0dee66": {
+  "url": "https://www.matsprogram.org/",
+  "file": "sources/mats__fb0dee66.md",
+  "method": "html",
+  "words": 3364,
+  "status": "ok",
+  "note": "linked from 8.2 (client-rendered page)"
+ },
+ "987c894e": {
+  "url": "https://www.sentientfutures.ai/projectincubator",
+  "file": "sources/sentient-futures__987c894e.md",
+  "method": "html",
+  "words": 1727,
+  "status": "ok",
+  "note": "linked from 8.2 (client-rendered page)"
+ }
+}

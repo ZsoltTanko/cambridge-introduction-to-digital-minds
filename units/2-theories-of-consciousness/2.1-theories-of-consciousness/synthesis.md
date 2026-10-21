@@ -1,0 +1,159 @@
+# 2.1 Theories of Consciousness - Synthesis
+
+*Unit 2: Theories of Consciousness | 122 min | 5 Core readings (87 min) and 8 Further readings, plus 2 reference notes and 2 exercises*
+
+**Source reliability note.** Four summaries rest on incomplete sources: [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) and [the Schneider et al. primer](readings/03-is-ai-conscious-a-primer-on-the-myths-and-confusion-driving.md) were reconstructed from the course guide because the papers could not be fetched; [Seth and Bayne](readings/10-theories-of-consciousness.md) and [Shiller](readings/11-functionalism-integrity-and-digital-consciousness.md) were summarised from the abstract, captions or secondary material. Claims attributed to those four below are the course's framing or general background, not checked against the papers.
+
+## What this section is teaching
+
+Unit 2 is the course's conceptual engine room. Unit 1 asked what grounds moral standing; this section asks the factual question that most answers depend on: could a digital system have subjective experience? The page frames three questions: what consciousness is and how well it is understood; what computational functionalism (CF) is and what speaks for and against it; and what makes consciousness hard to study, especially in AI.
+
+Learning goals, from the page:
+- Describe the major problems in studying subjective experience: the hard problem, the problem of other minds and the "gaming problem".
+- Appreciate the current state of understanding of consciousness.
+- Discuss leading theories and how they might apply to digital minds.
+- Explain CF and its application to digital minds.
+- Discuss arguments for and against CF.
+
+The question the section answers, in one line: *given that we have no agreed theory of consciousness, what would it take for an AI to be conscious, and how much should the answer hinge on whether computation alone is enough?* It is the opening of the unit, so it sets the vocabulary (see [Unit 2 Glossary](readings/01-unit-2-glossary.md)), lays out the main positions, and leaves "how do we evaluate real systems" to Unit 3.
+
+## The core argument
+
+**Start with what is being asked.** The course uses "conscious" in the phenomenal sense: there is something it is like to be the system ([Glossary](readings/01-unit-2-glossary.md); [Schwitzgebel](readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md)). That is distinct from intelligence, self-modelling, or access consciousness, which is information available for report and control. Schwitzgebel shows how to fix this meaning without loading in dualism or infallibility: teach the concept by diverse positive examples (seeing, pain, imagery, dreams) and negative ones (fingernail growth, masked stimuli, dreamless sleep). [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) then names three obstacles. The hard problem says explaining function does not obviously explain experience. The problem of other minds says we only ever infer experience from behaviour and structure. The gaming problem says that a system trained on human text or behaviour can produce the signs of consciousness without the thing itself. Chalmers's discussion of LLM self-reports in [Could a Large Language Model be Conscious?](readings/07-could-a-large-language-model-be-conscious.md) is a concrete case: a one-word change to a prompt flipped GPT-3's claims, and LaMDA had been trained on text about consciousness.
+
+**Gaming pushes you towards theory.** If behaviour is unreliable evidence, the alternative is to ask what a system is doing inside. That requires a theory linking processes to experience. [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) make this explicit as the "theory-heavy approach": take scientific theories (recurrent processing, global workspace, computational higher-order theories, attention schema, predictive processing, agency and embodiment), turn each into computational indicator properties (14 in all), and treat each indicator a system has as raising the probability of consciousness. [Schiavo](readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md) shows the method on global workspace theory: specialised parallel modules, a limited-capacity workspace, global broadcast and state-dependent attention. [Seth and Bayne](readings/10-theories-of-consciousness.md) supply the scientific map behind these theories and the idea that rival theories should be tested against each other (for example by adversarial collaborations and no-report experiments), though that source is only partly available. By Butlin et al.'s rubric no current system is a strong candidate, but they see no obvious technical barrier to building one. [Chalmers's LLM paper](readings/07-could-a-large-language-model-be-conscious.md) reaches a parallel verdict by a different route: six objections (biology, senses and embodiment, world and self models, recurrence, global workspace, unified agency) leave current LLMs under about 10 percent likely to be conscious, but most are engineering gaps, so he puts 25 percent or more on conscious LLM+ systems within a decade.
+
+**But the method has a premise.** Butlin et al. adopt CF as a working hypothesis "for pragmatic reasons": it is the view on which AI consciousness is possible and on which architecture is relevant. They exclude integrated information theory because its standard form conflicts with CF. Everything in the previous paragraph is therefore conditional. Why accept it? The classic positive case is [Chalmers's fading and dancing qualia arguments](readings/08-absent-qualia-fading-qualia-dancing-qualia.md). Replace neurons one at a time with functionally identical chips. Experience must either vanish abruptly (implausible, since it would need brute discontinuities in natural law), fade while behaviour stays fixed (leaving a rational subject systematically wrong about its own experience), or stay the same. A related switch-based argument targets inverted qualia. The conclusion is organisational invariance: same fine-grained organisation, same experience, with natural rather than logical necessity. The [cf-debate.com](references/cf-debate-com.md) site lists this as a key argument for CF and notes the standard reply, that relevant functions may include non-computable processes or physical effects a chip would not reproduce.
+
+**The opposition attacks the premise from several directions.** [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) argues that brains are not computers: there is no clean software-hardware split, neurons are self-producing and entangled with metabolism, and brains run in continuous physical time rather than the sequence-only "Turing world". Computation is also only one kind of dynamics. His positive proposal, biological naturalism, is that properties of life may be necessary for consciousness, though he concedes there is no knock-down argument. [Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md) supplies the neuroscience: replacing a neuron faithfully means reproducing spatially extended, history-dependent dynamics, diffuse chemical signalling, glia and vascular interfaces, and brain functions are multiplexed and "generatively entrenched" so cannot be cleanly unbundled. Note what she claims: nomological, not metaphysical, impossibility of fine-grained duplication, which is compatible with Chalmers's invariance principle. [Shiller](readings/11-functionalism-integrity-and-digital-consciousness.md) attacks from a third side: even if function is all that matters, a system must implement the organisation properly, and current networks arguably fail proposed integrity constraints (this rests on an abstract and secondhand summaries). The [cf-debate.com](references/cf-debate-com.md) "Physics Violations" argument, that history-dependent functional theories sit uneasily with Markovian physics, is another example.
+
+**Beyond one dispute.** [Schneider et al.](readings/03-is-ai-conscious-a-primer-on-the-myths-and-confusion-driving.md) widen the lens to non-physicalist theories, and the [Landscape of Consciousness](readings/13-landscape-of-consciousness-website.md) and its [companion essay](references/closertotruth-com-news-what-350-different-theories-of-c.md) show how many options exist (hundreds of theories, from materialism to idealism). CF sits in one corner of that map. The practical upshot is that "is this AI conscious?" has no theory-neutral answer: indicators, credences and even the relevance of architecture depend on which theory and which view of substrate you hold. Chalmers and Butlin et al. respond with explicit credences; Seth responds with caution about both over- and under-attribution; the course leaves you to weigh them.
+
+## Reading map
+
+| # | Reading (link to summary) | Priority | Time | Role in the section | Key takeaway |
+|---|---|---|---|---|---|
+| 1 | [Unit 2 Glossary](readings/01-unit-2-glossary.md) | Core | 3 min | Vocabulary | Seven fixed definitions; "conscious" means phenomenal; CF is a narrower claim than functionalism |
+| 2 | [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) (Sections 1-2 only) | Core | 14 min | Problems in studying consciousness | Hard problem, other minds, gaming problem; reconstructed from the guide, source not read |
+| 3 | [Is AI Conscious? A primer](readings/03-is-ai-conscious-a-primer-on-the-myths-and-confusion-driving.md) (Section III to Summary, pp. 14-22) | Core | 35 min | Theories applied to AI, including non-physicalist ones | Which theory is true changes the verdict on AI; source not read |
+| 4 | [Seth, Mythology of Conscious AI](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) (Sections 1-3) | Core | 27 min | Main case against CF | Brains are not computers; computation is one game among many; life may matter |
+| 5 | [Butlin et al., Consciousness in AI](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) (Executive Summary) | Core | 8 min | Theory-heavy method for AI | 14 indicators derived from theories, conditional on CF; no current system a strong candidate |
+| 6 | [Cao, Multiple Realizability](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md) | Further | 56 min | Detailed case against substrate independence | Brain functions are entangled with biology; fine-grained duplication is likely nomologically impossible |
+| 7 | [Chalmers, Could an LLM be Conscious?](readings/07-could-a-large-language-model-be-conscious.md) | Further | 45 min | Applying the theories to LLMs | Probably not now (under 10%); serious chance of LLM+ within a decade |
+| 8 | [Chalmers, Absent/Fading/Dancing Qualia](readings/08-absent-qualia-fading-qualia-dancing-qualia.md) | Further | 75 min | Classic case for functionalism | Replacement arguments support organisational invariance |
+| 9 | [Schwitzgebel, Phenomenal Consciousness](readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md) | Further | 37 min | Defining the target | Define by example plus the "wonderfulness" condition, avoiding inflation and deflation |
+| 10 | [Seth and Bayne, Theories of Consciousness](readings/10-theories-of-consciousness.md) | Further | 90 min | Scientific theory review | Four theory families compared; field needs theory-testing; only abstract-level source available |
+| 11 | [Shiller, Functionalism, Integrity and Digital Consciousness](readings/11-functionalism-integrity-and-digital-consciousness.md) | Further | 43 min | Implementation objection | Function is not enough; current networks fail proposed integrity constraints; abstract-level source |
+| 12 | [Schiavo, Mental (state) breakdown](readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md) | Further | 15 min | Accessible global workspace theory | GWT's four indicators as checkable architecture features |
+| 13 | [Landscape of Consciousness](readings/13-landscape-of-consciousness-website.md) | Further | untimed | Survey of the theory space | Hundreds of theories in eleven families; a map, not an evidence ranking |
+| ref | [Closer to Truth essay](references/closertotruth-com-news-what-350-different-theories-of-c.md) | Reference | short | Context for #13 | No consensus; experts over-commit; theory choice has stakes for AI |
+| ref | [cf-debate.com](references/cf-debate-com.md) | Reference | 15 min (Ex. 2) | Structured arguments for and against CF | 31 arguments against, 13 for; each rests on a contested premise |
+
+## Key concepts
+
+| Term | Definition | Introduced in |
+|---|---|---|
+| Phenomenal consciousness | Subjective experience; something it is like to be the system | [Glossary](readings/01-unit-2-glossary.md), [Schwitzgebel](readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md) |
+| Access consciousness | Content available for report, reasoning and control, not necessarily felt | [Glossary](readings/01-unit-2-glossary.md) |
+| Qualia | The felt qualities of experience, such as the redness of red | [Glossary](readings/01-unit-2-glossary.md) |
+| Hard problem | Why physical or functional processes come with experience at all | [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) (course framing) |
+| Problem of other minds | We cannot observe others' experiences directly, only infer them | [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) (course framing) |
+| Gaming problem | A system can show the signs of consciousness without the property | [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) (course framing); [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) |
+| Functionalism | Mental states depend on functional organisation, not what the system is made of | [Glossary](readings/01-unit-2-glossary.md) |
+| Computational functionalism | The relevant organisation is computational; right algorithm suffices | [Glossary](readings/01-unit-2-glossary.md); [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) |
+| Substrate independence / flexibility | Same mental states in different physical media; "flexibility" stresses not tied to biology | [Glossary](readings/01-unit-2-glossary.md); [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) |
+| Multiple realizability | The same kind of mental state can be realised by physically different systems | [Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md) |
+| Philosophical zombie | A being behaviourally identical to a human but without experience | [Glossary](readings/01-unit-2-glossary.md) |
+| Organisational invariance | Any functional isomorph of a conscious system has the same experiences | [Chalmers 1995](readings/08-absent-qualia-fading-qualia-dancing-qualia.md) |
+| Fading / dancing qualia | Replacement scenarios showing the costs of denying invariance | [Chalmers 1995](readings/08-absent-qualia-fading-qualia-dancing-qualia.md) |
+| Nomological vs metaphysical possibility | Possible given our world's laws vs merely conceivable | [Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md); [Chalmers 1995](readings/08-absent-qualia-fading-qualia-dancing-qualia.md) |
+| Generative entrenchment | Features that many others depend on cannot be swapped out cleanly | [Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md); [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) |
+| Biological naturalism | Properties of life are necessary (perhaps not sufficient) for consciousness | [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) |
+| Simulation vs instantiation | Simulating X does not make X unless X is itself computational | [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) (Section 4, not assigned) |
+| Theory-heavy approach / indicator properties | Assess AI by whether its architecture has features that theories tie to consciousness | [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) |
+| Algorithmic vs implementational recurrence | Repeated operations in software vs feedback loops in hardware | [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) |
+| Global workspace, broadcast, ignition | Limited-capacity shared space; its contents reach all modules; sudden surge of activity | [Schiavo](readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md); [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) |
+| Higher-order theories, perceptual reality monitoring | A state is conscious if the subject represents or monitors it | [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) |
+| Attention schema | A model of attention used to control it | [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) |
+| Wonderfulness condition | A good definition of consciousness leaves room to wonder how it relates to function | [Schwitzgebel](readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md) |
+| Frankish's dilemma | Define consciousness with dubious commitments and it likely does not exist; define it weakly and it vanishes | [Schwitzgebel](readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md) |
+| Integrity constraints / implementation problem | Conditions on how a physical system realises a functional organisation | [Shiller](readings/11-functionalism-integrity-and-digital-consciousness.md) |
+| LLM+ | An LLM extended with senses, a body, or tools | [Chalmers 2023](readings/07-could-a-large-language-model-be-conscious.md) |
+| Adversarial collaboration, no-report paradigm | Rival theorists co-design a decisive test; experiments avoiding report confounds | [Seth and Bayne](readings/10-theories-of-consciousness.md) (from glossary and bibliography) |
+
+## Techniques & approaches compared
+
+The section is about positions and methods for deciding whether AI could be conscious.
+
+| Approach | How it works | Strengths | Weaknesses | Trade-offs and open problems |
+|---|---|---|---|---|
+| Behavioural / self-report tests | Judge by what the system says and does | Cheap, intuitive | Easy to game; training data contaminates reports ([Chalmers 2023](readings/07-could-a-large-language-model-be-conscious.md)); people over-attribute minds | Butlin et al. and Schiavo reject them as primary evidence; better, harder-to-game tests remain an open challenge |
+| Theory-heavy indicators ([Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md), [Schiavo](readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md)) | Convert theories into architectural checklists and set credence | Concrete, inspects the "engine"; updatable | Presupposes CF; indicators unweighted and ambiguous; some met trivially | No formula for combining indicators; indicators could themselves be built in superficially |
+| Organisational invariance via replacement ([Chalmers 1995](readings/08-absent-qualia-fading-qualia-dancing-qualia.md)) | Reductio on absent and inverted qualia | Avoids intuition contests about odd systems | Premise that rational subjects notice experience changes; says nothing about which organisation | Gives natural not logical necessity; practical feasibility is left open |
+| Biological naturalism / life-based views ([Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md)) | Consciousness tied to life, metabolism, continuous dynamics | Matches the only known conscious beings; ties to predictive processing and interoception | Admitted lack of knock-down argument; small sample; unclear why metabolism specifically matters | Rules out standard digital AI but not all artificial consciousness |
+| Substrate-entanglement ([Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md)) | Argue duplication is nomologically blocked | Empirically grounded; shifts burden to functionalist | Depends on grain of description; coarser functional levels not ruled out | Weak against narrow AI or LLMs that do not copy neurons |
+| Implementation constraints ([Shiller](readings/11-functionalism-integrity-and-digital-consciousness.md)) | Functionalism plus conditions on realisers | Addresses the triviality problem; yields architecture-level verdicts | Constraints contested; verdicts can be engineered around (abstract-level source) | Neuromorphic hardware might satisfy them |
+| Objection-and-credence analysis ([Chalmers 2023](readings/07-could-a-large-language-model-be-conscious.md)) | List what LLMs lack and how fixable each gap is | Turns debate into a roadmap with probabilities | Credences loosely grounded; unknown missing factors | Raises the stakes of building the missing features |
+| Landscape surveys ([Landscape](readings/13-landscape-of-consciousness-website.md)) | Map hundreds of theories | Shows breadth; counters over-commitment | Not an evidence ranking; editors' framing | Breadth can dilute comparison |
+
+## Tensions, debates & open questions
+
+1. **Is computational functionalism a starting assumption or a conclusion?** *For:* it is the only mainstream view on which architecture matters and AI consciousness is possible, and Chalmers's replacement arguments support organisational invariance ([#8](readings/08-absent-qualia-fading-qualia-dancing-qualia.md)); Butlin et al. adopt it explicitly. *Against:* Seth ([#4](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md)) says it is unexamined and probably wrong. Open: does the debate shrink once "computation" is defined broadly enough to include continuous dynamics? Seth himself concedes broader forms exist.
+2. **Do the replacement arguments and the entanglement arguments really collide?** Cao ([#6](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md)) says her view is compatible with invariance; the dispute is whether a chip can instantiate the organisation. Chalmers could reply that this is a question of resources, not principle; Cao and Seth could reply that functionalism's practical promise needs nomological, not conceivable, possibility. Seth's critique targets the first step of the replacement series and does not show a partial replacement at the right grain must lose experience (the summaries flag this).
+3. **What is the right grain of description?** Every side relies on it: Chalmers needs a grain that fixes behaviour; Cao argues no tractable intermediate "functional level" is guaranteed; Shiller argues implementation details matter. Unresolved.
+4. **Behaviour versus architecture as evidence.** Butlin et al. and Schiavo favour architecture because behaviour can be gamed. The gaming concern may apply to indicators too (a system could be built to display a bottleneck without the function). Seth also warns that our biases yield more false positives than false negatives, and Chalmers weighs self-reports and "seems-conscious" as weak evidence.
+5. **Which theory, and how much does it matter?** The Landscape site shows hundreds of options; Butlin et al. exclude IIT; Schneider et al. include non-physicalist views (course framing only). If two theories disagree about the same AI system, there is no settled rule for combining them.
+6. **Over- versus under-attribution.** Butlin et al. and Chalmers treat both errors as costly. Seth argues that the immediate danger is conscious-seeming systems and that deliberately creating consciousness would be an ethical disaster. Chalmers describes his roadmap as also a list of paths to avoid.
+7. **What counts as an adequate definition?** Schwitzgebel's example-based concept keeps the question open; the glossary's narrower "qualia" may bake in one side of the phenomenal-versus-representational debate (the glossary summary notes this).
+8. **Currency.** Butlin et al. (2023) and Chalmers (2023) assess older systems; Cao (2022) predates the LLM debate. Check later units for updates.
+
+## Exercises
+
+**Exercise 1 (free text, Core, 20 min).** Pick one theory or related condition (global workspace, biological naturalism, recurrent processing, computational higher-order theories, attention schema, or agency and embodiment) and note what it claims, evidence for or against, and how it applies to digital minds. Post your choice in the group Slack channel so the group covers a spread.
+- Equipped by: [Butlin et al.](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) (indicators and evidence for each theory, with page pointers in the exercise), [Schiavo](readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md) (global workspace), [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) (biological naturalism; the exercise's own pointer, Seth's biological naturalism paper, is assigned in [4.1](../../4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/readings/04-conscious-artificial-intelligence-and-biological-naturalism.md)), [Chalmers 2023](readings/07-could-a-large-language-model-be-conscious.md) (recurrence, workspace and self models applied to LLMs), [Seth and Bayne](readings/10-theories-of-consciousness.md), and the [Landscape](readings/13-landscape-of-consciousness-website.md) for unusual choices. Use the [Glossary](readings/01-unit-2-glossary.md) for terms.
+
+**Exercise 2 (free text, Core, 15 min).** From [cf-debate.com](references/cf-debate-com.md), review one argument for and one against CF, and note what you find convincing or unconvincing.
+- Equipped by: [Chalmers 1995](readings/08-absent-qualia-fading-qualia-dancing-qualia.md) (the fading qualia argument on the "for" side), [Seth](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) and [Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md) (for substance on the "against" side), [Shiller](readings/11-functionalism-integrity-and-digital-consciousness.md), and the [Glossary](readings/01-unit-2-glossary.md) for the CF and substrate-independence definitions. A useful lens from the reference note: does the objection target the argument's logic or its empirical premise?
+
+## Study paths
+
+**30-minute path (Core essentials).**
+1. [Glossary](readings/01-unit-2-glossary.md) (3 min).
+2. [Butlin et al. Executive Summary](readings/05-consciousness-in-artificial-intelligence-insights-from-the-s.md) (8 min).
+3. [Seth, Sections 1-3](readings/04-the-mythology-of-conscious-ai-consciousness-and-computation.md) (about 15 min, skimming), noting the single strongest claim in each section.
+4. Skim [Digital Minds I](readings/02-digital-minds-i-issues-in-the-philosophy-of-mind-and-cogniti.md) for the three problems if time remains. Then pick your Exercise 1 theory.
+
+**Full path (about 2 hours).** Glossary, then Digital Minds I, Schneider et al. (pp. 14-22), Seth, Butlin et al.; then Exercise 1 (20 min) and Exercise 2 (15 min), and a brief look at [Schiavo](readings/12-mental-state-breakdown-consciousness-in-ai-explained-part-1.md) (15 min) if your chosen theory is global workspace.
+
+**Deep dive.**
+- Functionalism for and against: [Chalmers 1995](readings/08-absent-qualia-fading-qualia-dancing-qualia.md) then [Cao](readings/06-multiple-realizability-and-the-spirit-of-functionalism.md) (read as a direct debate), then [Shiller](readings/11-functionalism-integrity-and-digital-consciousness.md).
+- AI application: [Chalmers 2023](readings/07-could-a-large-language-model-be-conscious.md), then the full Butlin et al. report (beyond the assigned executive summary).
+- Foundations and map: [Schwitzgebel](readings/09-phenomenal-consciousness-defined-and-defended-as-innocently.md), [Seth and Bayne](readings/10-theories-of-consciousness.md), the [Landscape](readings/13-landscape-of-consciousness-website.md) and its [companion essay](references/closertotruth-com-news-what-350-different-theories-of-c.md), then more cf-debate.com arguments.
+
+## Discussion questions
+
+1. (Recall) What does the course mean by "conscious", and how does it differ from intelligence and from access consciousness?
+2. (Recall) State the hard problem, the problem of other minds and the gaming problem. Which is most damaging to behavioural tests of AI consciousness, and why?
+3. (Recall) What is the difference between functionalism and computational functionalism, and what does substrate independence add?
+4. (Understanding) Walk through Chalmers's fading qualia argument in your own words. What premise about rational subjects does it depend on?
+5. (Understanding) What is a Butlin et al. "indicator property", and why do they adopt CF as a working hypothesis? What happens to the method if CF is false?
+6. (Analysis) Cao says her argument is compatible with organisational invariance. Explain how, and say where she and Chalmers still disagree.
+7. (Analysis) Seth concedes broader forms of computation exist. Does that make the dispute with computational functionalists largely verbal? Build the strongest answer on each side.
+8. (Analysis) Seth's life argument rests on every agreed-conscious being being alive. How strong is that evidence, and what would count against it?
+9. (Application) Choose one Exercise 1 theory. Which indicator would you check in a current frontier system, and how could you tell real implementation from mimicry?
+10. (Evaluation) Two respected theories give opposite verdicts on the same AI system. What, if anything, should follow for how it is treated or deployed?
+11. (Evaluation) Which is the greater risk in your view, over-attributing or under-attributing consciousness? What evidence would change your mind?
+12. (Judgment) The Landscape site lists hundreds of theories. Does that breadth make the question intractable, or is the indicator approach a reasonable way to act anyway?
+
+## Connections to the rest of the course
+
+**Builds on**
+- [1.1 Introduction and Theories of Moral Standing](../../1-introduction/1.1-introduction-and-theories-of-moral-standing/): moral standing is often tied to phenomenal experience; this section asks whether digital systems could have it.
+
+**Sets up**
+- [3.1 Evaluation of Consciousness and Other Mental States](../../3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/): the gaming problem, indicators and the access-versus-phenomenal distinction become methods for evaluating real systems.
+- [4.1 Perceptions of Consciousness](../../4-perceptions-of-consciousness/4.1-perceptions-of-consciousness/): over-attribution and conscious-seeming systems; also assigns Seth's biological naturalism paper that Exercise 1 references.
+- [5.1 Interactions with AI Safety and Ethics](../../5-interactions-with-ai-safety-and-ethics/5.1-interactions-with-ai-safety-and-ethics/): Seth and Butlin et al. both raise risks that follow from attribution errors.
+- [6.1 Approaches under Uncertainty](../../6-approaches-under-uncertainty/6.1-approaches-under-uncertainty/): the credence-based reasoning of Butlin et al. and Chalmers is a worked example of acting under theory uncertainty.
+- [7.1 Digital Minds Governance](../../7-digital-minds-governance/7.1-digital-minds-governance/): governance proposals need a view on what counts as a candidate digital mind.
+- [8.1 Reflections and Next Steps](../../8-reflections-and-next-steps/8.1-reflections-and-next-steps/): Butlin et al.'s open questions are natural material for reflection.

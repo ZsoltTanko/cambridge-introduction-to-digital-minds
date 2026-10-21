@@ -1,0 +1,137 @@
+{
+ "id": "1.1",
+ "title": "Introduction and Theories of Moral Standing",
+ "unit": 1,
+ "unitTitle": "Introduction",
+ "dir": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing",
+ "url": "https://bluedot.org/courses/digital-minds/1/1",
+ "estimatedTime": 120,
+ "itemIds": [
+  "i000",
+  "i001",
+  "i002",
+  "i003",
+  "i004",
+  "i005",
+  "i006",
+  "i007",
+  "i008",
+  "i009",
+  "i010",
+  "i011",
+  "i012",
+  "i013"
+ ],
+ "numExercises": 2,
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "pagePath": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/page.md",
+ "readings": [
+  {
+   "id": "i000",
+   "title": "Introduction to Digital Minds Primer",
+   "priority": "Core",
+   "timeMins": 38,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/01-introduction-to-digital-minds-primer.md",
+   "url": "https://docs.google.com/document/d/1Y67O81iToxCX6UjxCksyB8Y6RySZEMXMUko_JJ14hXY/edit?tab=t.0#heading=h.kbw9xzk4twrf"
+  },
+  {
+   "id": "i001",
+   "title": "Taking AI Welfare Seriously",
+   "priority": "Core",
+   "timeMins": 32,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/02-taking-ai-welfare-seriously.md",
+   "url": "https://arxiv.org/pdf/2411.00986"
+  },
+  {
+   "id": "i002",
+   "title": "Digital Minds II: Ethical Issues",
+   "priority": "Core",
+   "timeMins": 22,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/03-digital-minds-ii-ethical-issues.md",
+   "url": "https://philpapers.org/archive/MOGDMI.pdf"
+  },
+  {
+   "id": "i003",
+   "title": "Against AI Welfare: Care Practices Should Prioritise Living Systems",
+   "priority": "Core",
+   "timeMins": 13,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/04-against-ai-welfare-care-practices-should-prioritise-living-s.md",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.70016"
+  },
+  {
+   "id": "i004",
+   "title": "Introduction to Digital Minds Glossary",
+   "priority": "Further",
+   "timeMins": 30,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/05-introduction-to-digital-minds-glossary.md",
+   "url": "https://docs.google.com/document/d/11PbrNJVYEV7D-RqkgPuKmZln-xFXJHpUpOuIQ1OGBDU/edit?tab=t.0"
+  },
+  {
+   "id": "i005",
+   "title": "AI Consciousness: A Centrist Manifesto",
+   "priority": "Further",
+   "timeMins": 65,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/06-ai-consciousness-a-centrist-manifesto.md",
+   "url": "https://philpapers.org/archive/BIRACA-4.pdf"
+  },
+  {
+   "id": "i006",
+   "title": "Futures with Digital Minds: Expert Forecasts in 2025",
+   "priority": "Further",
+   "timeMins": 60,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/07-futures-with-digital-minds-expert-forecasts-in-2025.md",
+   "url": "https://arxiv.org/abs/2508.00536"
+  },
+  {
+   "id": "i007",
+   "title": "Illusions of AI consciousness",
+   "priority": "Further",
+   "timeMins": 13,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/08-illusions-of-ai-consciousness.md",
+   "url": "https://www.science.org/doi/10.1126/science.adn4935"
+  },
+  {
+   "id": "i008",
+   "title": "Problem Profile: Moral Status of Digital Minds",
+   "priority": "Further",
+   "timeMins": 60,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/09-problem-profile-moral-status-of-digital-minds.md",
+   "url": "https://80000hours.org/problem-profiles/moral-status-digital-minds"
+  },
+  {
+   "id": "i009",
+   "title": "The Memetics of AI Successionism",
+   "priority": "Further",
+   "timeMins": 24,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/10-the-memetics-of-ai-successionism.md",
+   "url": "https://boundedlyrational.substack.com/p/the-memetics-of-ai-successionism"
+  },
+  {
+   "id": "i010",
+   "title": "What Would Qualify an Artificial Intelligence for Moral Standing?",
+   "priority": "Further",
+   "timeMins": 90,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/11-what-would-qualify-an-artificial-intelligence-for-moral-stan.md",
+   "url": "https://link.springer.com/article/10.1007/s43681-023-00260-1"
+  },
+  {
+   "id": "i011",
+   "title": "whenaiseemsconscious.org",
+   "priority": "Further",
+   "timeMins": null,
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/readings/12-whenaiseemsconscious-org.md",
+   "url": "https://whenaiseemsconscious.org"
+  }
+ ],
+ "references": [
+  {
+   "id": "i012",
+   "kind": "inline-link",
+   "anchor": "Cambridge Digital Minds",
+   "summaryFile": "units/1-introduction/1.1-introduction-and-theories-of-moral-standing/references/cambridge-digital-minds.md",
+   "url": "https://digitalminds.cam/"
+  }
+ ],
+ "siblingSectionPages": []
+}

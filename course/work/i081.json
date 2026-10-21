@@ -1,0 +1,96 @@
+{
+ "id": "i081",
+ "kind": "resource",
+ "section": "6.1",
+ "sectionTitle": "Approaches under Uncertainty",
+ "unit": 6,
+ "unitTitle": "Approaches under Uncertainty",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/6/1",
+ "pagePath": "units/6-approaches-under-uncertainty/6.1-approaches-under-uncertainty/page.md",
+ "url": "https://www.anthropic.com/constitution#:~:text=can%20thrive%20together.-,Claude%E2%80%99s%20nature,-In%20creating%20Claude",
+ "summaryFile": "units/6-approaches-under-uncertainty/6.1-approaches-under-uncertainty/readings/05-claudes-constitution.md",
+ "sourceFile": "sources/claudes-constitution__b1c32e58.md",
+ "sourceRel": "../../../../sources/claudes-constitution__b1c32e58.md",
+ "sourceStatus": "ok",
+ "sourceWords": 28983,
+ "sourceMethod": "html",
+ "formatHint": "lab policy / commitment document",
+ "title": "Claude's Constitution",
+ "authors": "Anthropic",
+ "year": 2026,
+ "priority": "Core",
+ "timeMins": 30,
+ "guide": "**Read Only**: 'Claude's Nature' Section. \nN.B. A **written prompt** connects to this reading. \n\n_The foundational document that shapes Claude’s responses,  including with regard to thinking about its own nature and moral status._",
+ "context": "",
+ "siblings": [
+  {
+   "title": "Unit 6 Glossary",
+   "path": "01-unit-6-glossary.md",
+   "priority": "Core"
+  },
+  {
+   "title": "The Edge of Sentience",
+   "path": "02-the-edge-of-sentience.md",
+   "priority": "Core"
+  },
+  {
+   "title": "How to deal with risks of AI suffering",
+   "path": "03-how-to-deal-with-risks-of-ai-suffering.md",
+   "priority": "Core"
+  },
+  {
+   "title": "A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty",
+   "path": "04-a-human-centric-framework-for-debating-the-ethics-of-ai-cons.md",
+   "priority": "Core"
+  },
+  {
+   "title": "Frameworks for decision making under uncertainty",
+   "path": "06-frameworks-for-decision-making-under-uncertainty.md",
+   "priority": "Core"
+  },
+  {
+   "title": "The Societal Response to Potentially Sentient AI",
+   "path": "07-the-societal-response-to-potentially-sentient-ai.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Moral Uncertainty",
+   "path": "08-moral-uncertainty.md",
+   "priority": "Further"
+  },
+  {
+   "title": "Why it makes sense to let Claude exit conversations",
+   "path": "09-why-it-makes-sense-to-let-claude-exit-conversations.md",
+   "priority": "Further"
+  },
+  {
+   "title": "How Extreme is the Precautionary Principle?",
+   "path": "10-how-extreme-is-the-precautionary-principle.md",
+   "priority": "Further"
+  },
+  {
+   "title": "A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty",
+   "path": "11-a-human-centric-framework-for-debating-the-ethics-of-ai-cons.md",
+   "priority": "Maybe"
+  },
+  {
+   "title": "Claude's Constitution",
+   "path": "12-claudes-constitution.md",
+   "priority": "Maybe"
+  },
+  {
+   "title": "Role play with Large Language Models",
+   "path": "13-role-play-with-large-language-models.md",
+   "priority": "Maybe"
+  },
+  {
+   "title": "Frameworks and fields that may be relevant to digital minds",
+   "path": "14-frameworks-and-fields-that-may-be-relevant-to-digital-minds.md",
+   "priority": "Maybe"
+  }
+ ],
+ "otherOccurrences": [],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}

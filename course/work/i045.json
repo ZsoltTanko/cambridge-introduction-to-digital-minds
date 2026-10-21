@@ -1,0 +1,37 @@
+{
+ "id": "i045",
+ "kind": "exercise-link",
+ "section": "3.1",
+ "sectionTitle": "Evaluation of Consciousness and Other Mental States",
+ "unit": 3,
+ "unitTitle": "Evaluating mental states",
+ "sectionUrl": "https://bluedot.org/courses/digital-minds/3/1",
+ "pagePath": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/page.md",
+ "url": "https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0",
+ "summaryFile": "units/3-evaluating-mental-states/3.1-evaluation-of-consciousness-and-other-mental-states/references/docs-google-com-document-d-1ijcseq79slloi-7i38wbyzuynfy.md",
+ "sourceFile": "sources/evaluating-consciousness-sentience-and-other-menta__87ae199f.md",
+ "sourceRel": "../../../../sources/evaluating-consciousness-sentience-and-other-menta__87ae199f.md",
+ "sourceStatus": "ok",
+ "sourceWords": 6169,
+ "sourceMethod": "text",
+ "formatHint": "article / blog post / web page",
+ "anchor": "Link in exercise 'Exercise 1'",
+ "context": "Choose **one** of the categories of approaches to evaluating consciousness and other mental states detailed **in this [doc](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0).**\n\nYou might choose **one** of:\n\n- **[Theory-based approaches to evaluating consciousness](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.mnw6gfj02xmn)**: _Use theories of consciousness to inform consciousness evaluations and identify indicators_\n- **[Approaches based on self-report](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.2hdblwz619ez):** _Use AI systems’ self-reported text outputs as a means to assess their consciousness_\n- **[Choice-based evaluations](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0):** _evaluate patterns in how AI systems make choices_\n- **[Sentience, emotion and wellbeing based approaches](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.1cthioxnhkk5):** _Assess functional (i.e. achieves a function, does not necessarily imply experience) aspects of emotion, sentience and wellbeing_\n- **[Tests for self-representation or identification](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.axr4isn0dzom):** _evaluate whether AI systems represent or can identify themselves_\n- **[Methods for evaluating sets of indicators](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.ahjvb2jch987):** _ways in which different indicators may be combined into assessments of consciousness or other mental states_\n- **[Other approaches to consciousness tests](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.7shnljtuj2al):** _Schneider and Turner’s Artificial Consciousness Test and Chip test, and the Turing test and related approaches._\n- **[Approaches to validating tests](https://docs.google.com/document/d/1ijCseQ79SlLOi_7i38WbyzUYNfy_l-jErmRncLuKxqk/edit?tab=t.0#heading=h.ydfvxkqxgrzr):** _methods to check whether tests assess consciousness, or the mental state they are supposed to evaluate._\n\nOn **Slack, let your group know which section you have chosen**.\n\nThen, read the relevant section _(should take 5 minutes)_, and **spend up to 15 minutes** noting down your thoughts on the section you read. \n\n1. What are the **core parts** of the approaches or methods you read about?\n2. What are their **advantages** and **disadvantages** in determining consciousness or other mental states in AI systems?\n3. How might these approaches **shift the probability you place** on artificial moral patienthood, if at all? Is a system more likely to pass these tests 1) if it is a moral patient or 2) if it is not a moral patient? \n\nIf it serves your learning better, feel free to focus on **one** specific approach within the section. \n\nYou will talk this through in a small group in the discussion - no need to reach expert level!",
+ "alsoReading": [
+  {
+   "section": "3.1",
+   "path": "../readings/05-evaluating-consciousness-sentience-and-other-mental-states-p.md",
+   "title": "Evaluating consciousness, sentience and other mental states: primer"
+  }
+ ],
+ "otherOccurrences": [
+  {
+   "section": "3.1",
+   "kind": "resource",
+   "path": "../readings/05-evaluating-consciousness-sentience-and-other-mental-states-p.md"
+  }
+ ],
+ "courseOutline": "Unit 1: Introduction\n  1.1 Introduction and Theories of Moral Standing\nUnit 2: Theories of Consciousness\n  2.1 Theories of Consciousness\nUnit 3: Evaluating mental states\n  3.1 Evaluation of Consciousness and Other Mental States\nUnit 4: Perceptions of Consciousness\n  4.1 Perceptions of Consciousness\nUnit 5: Interactions with AI Safety and Ethics\n  5.1 Interactions with AI Safety and Ethics\nUnit 6: Approaches under Uncertainty\n  6.1 Approaches under Uncertainty\nUnit 7: Digital Minds Governance\n  7.1 Digital Minds Governance\nUnit 8: Reflections and Next Steps\n  8.1 Reflections and Next Steps\n  8.2 Next steps",
+ "projectRoot": "/Users/zsolttanko/vscode-projects/testing/bluedot-cambridge-digital-minds",
+ "fetchDate": "2026-10-08"
+}
